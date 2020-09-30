@@ -18,7 +18,7 @@
 
 ## Usage
 
-- Download the excel file or use [Quizlet](https://quizlet.com/merletlists/folders/engineer-vocabulary-lists/sets)
+- Download the [excel file](https://github.com/mercari/engineer-vocabulary-list/blob/master/Engineer%20Vocabulary%20List.xlsx) or use [Quizlet](https://quizlet.com/merletlists/folders/engineer-vocabulary-lists/sets)
 - Create your own copy to edit
 
 - Excelファイルをダウンロードするか、Quizletを使ってください
@@ -26,6 +26,6 @@
 
 ## License
 
-this repository by Mercari, Inc. is licensed under "CC BY 4.0"
+This repository by Mercari, Inc. is licensed under "CC BY 4.0"
 
 The Full License: https://github.com/mercari/engineer-vocabulary-list/blob/master/LICENSE
