@@ -26,6 +26,6 @@
 
 ## License
 
-this repository by @maswilson is licensed under "CC BY 4.0"
+this repository by Mercari, Inc. is licensed under "CC BY 4.0"
 
 The Full License: https://github.com/mercari/engineer-vocabulary-list/blob/master/LICENSE
