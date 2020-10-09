@@ -1,0 +1,28 @@
+日本語,日本語 ※ふりがなつき,English,例文(れいぶん) example sentence,例文(れいぶん) example sentence　※ふりがなつき,English
+チケットを取る,チケットを取(と)る,take a ticket,すでに3つチケットを取っているので、今週は取れません。,すでに3(みっ)つチケットを取(と)っているので、今週(こんしゅう)は取(と)れません。,I can't take a ticket this week because I have already taken 3.
+すでに,すでに,adv. already,ー,ー,ー
+プルリクを出す,プルリクを出(だ)す,make/create a pull request ,昨日、プルリクを出しました。,昨日(きのう)、プルリクを出(だ)しました。,I made a pull request yesterday. 
+開発する,開発(かいはつ)する,v. develop,今、Xを開発しています。,今(いま)、Xを開発(かいはつ)しています。,I'm developing X now.
+修正する,修正(しゅうせい)する,"v. correct, revise",修正は今日中に終わると思います。,修正(しゅうせい)は今日中(きょうじゅう)に終(お)わると思(おも)います。,I think I'll revise it by the end of today.
+マージする,マージする,v. merge,XをYにマージしました。,XをYにマージしました。,I merged X with Y.
+進める,進(すす)める,"v. [*transitive verb 他動詞]
+1. move forward, proceed with (something)
+2. work on ",このチケットは、Kenさんと一緒に進めています。,このチケットは、Kenさんと一緒(いっしょ)に進(すす)めています。,I'm working on this ticket with Ken.
+[システムが]動く,[システムが]動(うご)く,"v. work, operate ",システムがちゃんと動いてないことがわかった。,システムがちゃんと動(うご)いてないことがわかった。,I realized that the system was not working properly. 
+ちゃんと,ちゃんと ※casual,adv. properly,ー,ー,ー
+間に合う,間(ま)に合(あ)う,"be in time, make a deadline",来週のリリースには間に合いそうです。,来週(らいしゅう)のリリースには間(ま)に合(あ)いそうです。,It seems that we'll make the release next week.
+状態,状態(じょうたい),n. status,QAしてもらえる状態のものがありますか。,QAしてもらえる状態(じょうたい)のものがありますか。,Is there anything ready for QA?
+課題,課題(かだい),n. issue,課題が見つかった。,課題(かだい)が見(み)つかった。,We found some issues.
+要件,要件(ようけん),n. requirements,要件は明日、テックリード(TL)に共有します。,要件(ようけん)は明日(あした)、TLに共有(きょうゆう)します。,I'll share requirements with TLs tomorrow.
+仕様,仕様(しよう),n. specification document,まだ仕様が決まってない。,まだ仕様(しよう)が決(き)まってない。,The specs haven't been decided yet.
+固まる (*自動詞),固(かた)まる (*intransitive verb),v. take shape (*intransitive verb),まだ仕様が固まっていません。,まだ仕様(しよう)が固(かた)まっていません。,The specs haven't taken shape yet.
+支障,支障(ししょう),"n. obstacle, hitch ",それによって(プロジェクトに)支障が出ています。,それによって(プロジェクトに)支障(ししょう)が出(で)ています。,It interferes with it (our project).
+影響,影響(えいきょう),n. effect,これは、お客様に影響があるインシデントじゃないです。,これは、お客様(きゃくさま)に影響(えいきょう)があるインシデントじゃないです。,This is not an incident that has an effect on customers.
+原因,原因(げんいん),n. cause,これから原因を調べます。,これから原因(げんいん)を調(しら)べます。,I will look into the causes now.
+相談する,相談(そうだん)する,v. consult,マネージャーに相談する。,マネージャーに相談(そうだん)する。,I'll consult with my manager.
+困る,困(こま)る,v. be in trouble,何か困ってることがありますか。,何(なに)か困(こま)ってることがありますか。,Do you have any difficulties?
+[人/チームと]連携する,[人(ひと)/チームと]連携(れんけい)する,"v. work together, align with",これはteam Bと連携してやっていきます。,これはteam Bと連携(れんけい)してやっていきます。,We are aligned with team B to do this (task).
+sync(シンク)する,sync(シンク)する,v. sync,あとでテックリード(TL)とsyncしておきます。,あとでTLとsyncしておきます。,I will sync with TL later.
+設定する,設定(せってい)する,v. set,目標を設定する。,目標(もくひょう)を設定(せってい)する。,I'll set goals / I am setting goals.
+反映する,反映(はんえい)する,v. reflect,先週修正したけど、Jiraに反映されてません。,先週(せんしゅう)修正(しゅうせい)したけど、Jiraに反映(はんえい)されてません。,"I edited it last week, but it isn't reflected on Jira (yet)."
+効率,効率(こうりつ),n. efficiency,そのやり方は、効率がよさそう。,そのやり方(かた)は、効率(こうりつ)がよさそう。,That method seems efficient.

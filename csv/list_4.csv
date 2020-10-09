@@ -1,0 +1,31 @@
+日本語,日本語 ※ふりがなつき,English,例文(れいぶん) example sentence,例文(れいぶん) example sentence　※ふりがなつき,English
+時期,時期(じき),"n. period, season",リリースの時期は、調整中です。,リリースの時期(じき)は、調整中(ちょうせいちゅう)です。,The release period is being adjusted.
+未確定,未確定(みかくてい),n. / na-adj. undecided,スケジュールは未確定です。,スケジュールは未確定(みかくてい)です。,The schedule hasn't been decided yet.
+不足,"不足(ふそく)
+※コミュニーケーション不足(ぶそく)","n. shortage, lack of",チーム内のコミュニケーション不足が、問題になっています。,チーム内(ない)のコミュニケーション不足(ぶそく)が、問題(もんだい)になっています。,The lack of communication among team members is becoming a problem.
+余裕,余裕(よゆう),"n. time / money / space (to spare), have room in someone's mind",今月は、リリースが多くて、みんな余裕があんまりない。,今月(こんげつ)は、リリースが多(おお)くて、みんな余裕(よゆう)があんまりない。,We don't have time to spare since we have a lot of releases this month.
+正常,正常(せいじょう),"n. / na-adj.  normally, normal",システムが正常に動いてないので、今日中に鈴木さんが確認する予定になっています。,システムが正常(せいじょう)に動(うご)いてないので、今日中(きょうじゅう)に鈴木(すずき)さんが確認(かくにん)する予定(よてい)になっています。,"Since the system isn't working normally, I'm going to check with Suzuki-san today."
+最優先,最優先(さいゆうせん),n. top priority,これはリリースが来週なので、最優先で進めたほうがいいと思います。,これはリリースが来週(らいしゅう)なので、最優先(さいゆうせん)で進(すす)めたほうがいいと思います。,I think it's better to make this the top priority because the release is next week.
+直接,直接(ちょくせつ),adv. directly,困ったことがあったら、直接マネージャーに相談してください。,困(こま)ったことがあったら、直接(ちょくせつ)マネージャーに相談(そうだん)してください。,Please talk to your manager directly if you have any problems.
+途中,途中(とちゅう),"n. in the middle of, halfway",今、このチケットをやってる途中ですか。,今(いま)、このチケットをやってる途中(とちゅう)ですか。,Are you in the middle of working on this ticket?
+処理,処理(しょり),n. process,返金処理は、昨日、完了しました。,返金(へんきん)処理(しょり)は、昨日(きのう)、完了(かんりょう)しました。,I completed the refund process yesterday.
+集中する,集中(しゅうちゅう)する,"v. 1. concentrate (focus on)
+    2. concentrated",サイトへのアクセスは、どの時間帯が一番集中しますか。,サイトへのアクセスは、どの時間帯(じかんたい)が一番(いちばん)集中(しゅうちゅう)しますか。,What time is access to the site most concentrated? 
+遅延する,遅延(ちえん)する,v. delay,昨日の夜、システムに遅延が発生しました。,昨日(きのう)の夜(よる)、システムに遅延(ちえん)が発生(はっせい)しました。,A system delay happened last night. 
+作業をする,作業(さぎょう)をする,v. work ,明日、バージョンアップする作業をします。,明日(あした)、バージョンアップする作業(さぎょう)をします。,I'll work on updating this tomorrow.
+担当する,担当(たんとう)する,"v.  be responsible for, be in charge of ",この業務は、どこのチームが担当してるか知ってる？,この業務(ぎょうむ)は、どこのチームが担当(たんとう)してるか知(し)ってる？,Do you know which team is responsible for this work?
+追加する,追加(ついか)する,v. add,話したいトピックがある人は、議事録に追加しておいてくださいね。,話(はな)したいトピックがある人(ひと)は、議事録(ぎじろく)に追加(ついか)しておいてくださいね。,Please add the topics you want to talk about to the notes.
+提案する,提案(ていあん)する,"v. propose, suggest",何か提案がある人は、明日までに私にDMしてください。,何(なに)か提案(ていあん)がある人は、明日(あした)までに私(わたし)にDMしてください。,"If you want to suggest anything, please DM me by tomorrow."
+導入する,導入(どうにゅう)する,v. implement,新しいサービスを導入する時期はまだ決まってません。,新(あたら)しいサービスを導入(どうにゅう)する時期(じき)はまだ決(き)まってません。,The timing of implementing the new service hasn't been decided yet.
+落ちる,落(お)ちる,"v. drop, go down",夜中にアクセスが集中して、サービスが一時的に落ちました。,夜中(よなか)にアクセスが集中(しゅうちゅう)して、サービスが一時的(いちじてき)に落(お)ちました。,The service went down temporarily late last night because of a spike in access.
+移動する,移動(いどう)する,"v. move, shift",今Q対応しないチケットは、次のSprintに移動しておきます。,今Q(こんきゅう)対応(たいおう)しないチケットは、次(つぎ)のSprintに移動(いどう)しておきます。,Tickets that we won't deal with this Q will be moved to the next sprint.
+被る,被(かぶ)る,v. have a schedule conflict  (*casual),すみません、他のミーティングと被ってるので、明日のスタンドアップミーティングに参加できません。,すみません、他(ほか)のミーティングと被(かぶ)ってるので、明日のスタンドアップミーティングに参加(さんか)できません。,"Sorry, I can't join tomorrow's stand up because of a schedule conflict."
+ミーティングを抜ける,ミーティングを抜(ぬ)ける,v. leave the meeting,"【状況：ミーティングに出席中】
+ すみません、次のミーティングがあるので、先に抜けますね。","【状況(じょうきょう)：ミーティングに出席中(しゅっせきちゅう)】
+ すみません、次のミーティングがあるので、先(さき)に抜(ぬ)けますね。","[Situation: In a meeting]
+Sorry, I need to leave now because I have another meeting."
+けっこう,けっこう,adv. quite,来月はけっこう忙しくなると思うので、みなさん、今のうちにゆっくり休んでくださいね。,来月(らいげつ)はけっこう忙(いそが)しくなると思うので、みなさん、今のうちにゆっくり休(やす)んでくださいね。,Please take it easy now since we're going to be quite busy next month.
+ギリギリ,ギリギリ,"adv. at the last moment, barely",このチケットは、ギリギリになりそうですが、締切までに終わると思います。,このチケットは、ギリギリになりそうですが、締切(しめきり)までに終(お)わると思います。,"It'll be really tight, but I think I'll just barely get the ticket done by the deadline."
+基本的に,基本的(きほんてき)に,adv.  basically,基本的に、来Qのみなさんのアサインは、今Qと変更ありません。,基本的(きほんてき)に、来Q(らいきゅう)のみなさんのアサインは、今Q(こんきゅう)と変更(へんこう)ありません。,"Basically, everyone's assignments won't change much from this Q to next Q."
+ちなみに,ちなみに,"adv. also, in addition",ちなみに、いつぐらいまでにリリースの時期が決まるか、わかりますか。,ちなみに、いつぐらいまでにリリースの時期(じき)が決(き)まるか、わかりますか。,"Also, do you know when the release period will be decided? Approximately?"
+視点,視点(してん),n. point of view,お客様視点で考えてみて。,お客様(きゃくさま)視点(してん)で考(かんが)えてみて。,Think about it from the customer's point of view.

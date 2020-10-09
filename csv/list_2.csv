@@ -1,0 +1,26 @@
+日本語,日本語 ※ふりがなつき,English,例文(れいぶん) example sentence,例文(れいぶん) example sentence　※ふりがなつき,English
+詳細,詳細(しょうさい),n. details,詳細はdocsを見てください。,詳細(しょうさい)はdocsを見(み)てください。,Please check the docs for details.
+詳しく,詳(くわ)しく,adv. in detail,どんなインシデントだったか詳しく教えてもらえますか。,どんなインシデントだったか詳(くわ)しく教(おし)えてもらえますか。,Could you tell me about the incident in detail?
+方針,方針(ほうしん),n. policy,まだ会社の方針が決まってない。,まだ会社(かいしゃ)の方針(ほうしん)が決(き)まってない。,The company policy has not been decided yet.
+補足,補足(ほそく),"n.  supplementary, additional",ケンさんの話への補足なんですけど、、、,ケンさんの話(はなし)への補足(ほそく)なんですけど、、、,"Let me add something to what Ken said,"
+効果的,効果的(こうかてき),ナadj. effective,このやり方が効果的だと思います。,このやり方(かた)が効果的(こうかてき)だと思(おも)います。,I think this way is effective.
+達成する,達成(たっせい)する,v. achieve,先週、OKRを達成しました。,先週(せんしゅう)、OKRを達成(たっせい)しました。,We achieved our OKR last week.
+報告する,報告(ほうこく)する,v. report,プロジェクトについて報告します。,プロジェクトについて報告(ほうこく)します。,I will report on the project.
+議論する,議論(ぎろん)する,v. discuss,それはEMが議論しているところです。,それはEMが議論(ぎろん)しているところです。,EMs are discussing it now.
+不具合,不具合(ふぐあい),"n. defect, bug",ちょっと不具合があるので、今日中に直します。,ちょっと不具合(ふぐあい)があるので、今日中(きょうじゅう)に直(なお)します。,"There are some defects, so I'll fix it by the end of the day."
+順調,順調(じゅんちょう),n/ナadj. smooth,これは、順調に進んでいます。,これは、順調(じゅんちょう)に進(すす)んでいます。,This is working well.
+量,量(りょう),n. amount,タスクの量が多すぎます。,タスクの量(りょう)が多(おお)すぎます。,There are too many tasks.
+具体的,具体的(ぐたいてき),ナadj. concrete,具体的にどんなインシデントでしたか。,具体的(ぐたいてき)にどんなインシデントでしたか。,Could you expain the incident more concretely?
+状況,状況(じょうきょう),n. situation,QAのリソースが厳しい状況です。,QAのリソースが厳(きび)しい状況(じょうきょう)です。,We're in a tough situation in terms of QA resources.
+現状,現状(げんじょう),n. present situation,現状を説明します。,現状(げんじょう)を説明(せつめい)します。,I'll explain about the present situation.
+進捗確認,進捗確認(しんちょくかくにん),n. progress check,まずは、進捗確認をしましょう。,まずは、進捗確認(しんちょくかくにん)をしましょう。,Let's start with a progress check.
+優先順位,優先順位(ゆうせんじゅんい),n. priority,優先順位を決めたほうがいいと思います。,優先順位(ゆうせんじゅんい)を決(き)めたほうがいいと思(おも)います。,I think we should decide the priority.
+残る,残(のこ)る,v. remain,残っているチケットはありますか。,残(のこ)っているチケットはありますか。,Are there any tickets left?
+着手する,着手(ちゃくしゅ)する,v. initiate,それって、もう着手してますか？,それって、もう着手(ちゃくしゅ)してますか？,Have you already initiated it? 
+調整する,調整(ちょうせい)する,v. adjust,最近忙しすぎるので、タスクの量を調整したほうがいいいと思っています。,最近(さいきん)忙(いそが)しすぎるので、タスクの量(りょう)を調整(ちょうせい)したほうがいいいと思(おも)っています。,I'm thinking I should adjust my workload because I've been too busy these days.
+認識,認識(にんしき),"n. recognition, understanding",全員で認識を合わせたいです。,全員(ぜんいん)で認識(にんしき)を合(あ)わせたいです。,I'd like to make sure everyone's on the same page.
+ずれる,ずれる,v. be out of alignment,認識がずれてないか確認したいです。,認識(にんしき)がずれてないか確認(かくにん)したいです。,I'd like to make sure there's no misunderstanding between us.
+変更する,変更(へんこう)する,v. change,スケジュールが変更しています。,スケジュールが変更(へんこう)しています。,The schedule has been changed.
+開始する,開始(かいし)する,v. start,来週からキャンペーンが開始します。,来週(らいしゅう)からキャンペーンが開始(かいし)します。,We will start a campaign next week.
+前倒しする,前倒(まえだお)しする,v. reschedule to an earlier time,このプロジェクトは、前倒しで進めましょう,このプロジェクトは、前倒(まえだお)しで進(す)めましょう。,Let's move up this project. (Ex: from next qtr to this qtr)
+以降,以降(いこう),n. from,コードレビューは、来週以降の予定です,コードレビューは、来週(らいしゅう)以降(いこう)の予定(よてい)です。,We're planning to do a code review from next week.
