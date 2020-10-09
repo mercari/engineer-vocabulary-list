@@ -1,0 +1,26 @@
+日本語,日本語 ※ふりがなつき,English,例文(れいぶん) example sentence,例文(れいぶん) example sentence　※ふりがなつき,English
+雑談,雑談(ざつだん),"n. small talk, chat",まだ10分ぐらいあるので、ちょっと雑談でもしましょうか。,まだ10分ぐらいあるので、ちょっと雑談(ざつだん)でもしましょうか。,"We still have about 10 minutes left, shall we just chat? "
+段階,段階(だんかい),n. phase,今は、テストの準備をしている段階です。,今は、テストの準備(じゅんび)をしている段階(だんかい)です。,I'm in the preparation phase of the test now.
+既存,"既存(きぞん, きそん)",n. existing,既存のソースを見て、考えてみます。,既存(きぞん)のソースを見(み)て、考(かんが)えてみます。,I'll check the existing sources and then think about it.
+事例,事例(じれい),n. case,先週、それに似た事例がありました。,先週(せんしゅう)、それに似(に)た事例(じれい)がありました。,There was a similar case last week.
+品質,品質(ひんしつ),n. quality,リリースを早めると、QAの品質を保つのは難しくなると思います。,リリースを早(はや)めると、QAの品質(ひんしつ)を保(たも)つのは難(むずか)しくなると思います。,I think it'll be difficult to maintain the QA quality if we move the release date up.
+処理,処理(しょり),n.  processing,返金処理は、いつ完了しそうですか。,返金(へんきん)処理(しょり)は、いつ完了(かんりょう)しそうですか。,When do you think we'll finish processing the refund?
+障害,障害(しょうがい),"n. fault, system error",最近、障害が多く発生している。,最近(さいきん)、障害(しょうがい)が多(おお)く発生(はっせい)している。,A lot of system errors have been happening these days.
+クリティカル,クリティカル,"n-adj. critical, specially important",今のところ、クリティカルな障害は起きてません。,今のところ、クリティカルな障害(しょうがい)は起(お)きてません。,There are no critical failures yet. 
+挙動,挙動(きょどう),"n. (system) behavior, acting",ちょっと待って、Chromeの挙動がおかしい。,ちょっと待って、Chromeの挙動(きょどう)がおかしい。,"Hold on, Chrome is acting weird. "
+やつ,やつ,n. thing ※casual,来週QAする予定のやつ、ある？,来週(らいしゅう)QAする予定(よてい)のやつ、ある？,Is there something you plan to do QA for next week? 
+作成する,作成(さくせい)する,v. make (document or plan),リリースまでのスケジュールを作成したので、まだ見てない人は、今日中に確認してください,リリースまでのスケジュールを作成(さくせい)したので、まだ見てない人は、今日中(きょうじゅう)に確認(かくにん)してください,"I've made a schedule for the next release, so please check it by the end of today if you haven't."
+設計する,設計(せっけい)する,"v.  plan, design, layout ",ABテストを設計するときの注意点については、ここを読んどいてください。,ABテストを設計(せっけい)するときの注意点(ちゅういてん)については、ここを読(よ)んどいてください。,Please check here for the important points about planning AB tests.
+展開する,展開(てんかい)する,"v. expand, be open to",この資料は、全メンバーに展開されています,この資料(しりょう)は、全(ぜん)メンバーに展開(てんかい)されています,This document is now open to everyone.
+(内容を)詰める,内容(ないよう)を詰(つ)める,v. decide details,この件、もう少し詰めた方がいいですね。,この件(けん)、もう少(すこ)し詰(つ)めた方(ほう)がいいですね。,We should think about this more in order to decide the details. 
+任せる,任(まか)せる,"v. delegate, leave something with someone",このプロジェクトは、佐藤さんに任せました,このプロジェクトは、佐藤(さとう)さんに任(まか)せました,I've delegated this project to Sato-san.
+見積もる,見積(みつ)もる,v. estimate,見積もると、だいたいトータルで2ヶ月かかります。,見積(みつ)もると、だいたいトータルで2ヶ月(かげつ)かかります。,I estimate it will take about 2 months in total
+紐づく           ,紐(ひも)づく           ,v. link,この情報は、お客様IDに紐づいています,この情報(じょうほう)は、お客様(きゃくさま)IDに紐(ひも)づいています,This information is linked to customer ID.
+感じ,感(かん)じ,n. like [something],こんな感じです。,こんな感(かん)じです。,It's like this.
+以外,以外(いがい),"n. besides, except",ここに書いてあるトピック以外に何か話したいことありますか。,ここに書いてあるトピック以外(いがい)に何(なに)か話(はな)したいことありますか。,Is there anything else you want to talk about besides the topics written here?
+同時に,同時(どうじ)に,"adv. at the same time, simultaneously ",同時に担当できるプロジェクトの数には限界があります,同時(どうじ)に担当(たんとう)できるプロジェクトの数(かず)には限界(げんかい)があります,There's a limit to the number of projects we can handle at the same time.
+結局,結局(けっきょく),"adv. after all, in the end",これを解決しておかないと、結局、リリース直前に問題が出てくる。,これを解決(かいけつ)しておかないと、結局(けっきょく)、リリース直前(ちょくぜん)に問題(もんだい)が出(で)てくる。,"If we don't solve this problem, in the end it'll happen just before the release. "
+ほぼ ,ほぼ ,adv. mostly,このチケットはほぼ終わりました,このチケットはほぼ終(お)わりました,I've mostly finished this ticket.
+そもそも,そもそも,adv. in the first place ,そもそも、このミーティングの目的はなんでしたっけ？,そもそも、このミーティングの目的(もくてき)はなんでしたっけ？,What was the point of this meeting in the first place?
+どんどん,どんどん,adv. one after the other (usually quickly),どんどん意見を言ってくださいね,どんどん意見(いけん)を言ってくださいね,Let's all share our opinions one after the other. 
+〜側,〜側(がわ),n. side ,これはQA側で対応します,これはQA側(がわ)で対応(たいおう)します,"OK, the QA side will deal with this."
