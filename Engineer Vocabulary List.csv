@@ -1,0 +1,133 @@
+#,日本語,日本語 ※ふりがなつき,English,例文(れいぶん) example sentence,例文(れいぶん) example sentence　※ふりがなつき,English
+1,チケットを取る,チケットを取(と)る,take a ticket,すでに3つチケットを取っているので、今週は取れません。,すでに3(みっ)つチケットを取(と)っているので、今週(こんしゅう)は取(と)れません。,I can't take a ticket this week because I have already taken 3.
+2,すでに,すでに,adv. already,ー,ー,ー
+3,プルリクを出す,プルリクを出(だ)す,make/create a pull request ,昨日、プルリクを出しました。,昨日(きのう)、プルリクを出(だ)しました。,I made a pull request yesterday. 
+4,開発する,開発(かいはつ)する,v. develop,今、Xを開発しています。,今(いま)、Xを開発(かいはつ)しています。,I'm developing X now.
+5,修正する,修正(しゅうせい)する,"v. correct, revise",修正は今日中に終わると思います。,修正(しゅうせい)は今日中(きょうじゅう)に終(お)わると思(おも)います。,I think I'll revise it by the end of today.
+6,マージする,マージする,v. merge,XをYにマージしました。,XをYにマージしました。,I merged X with Y.
+7,進める,進(すす)める,"v. [*transitive verb 他動詞]
+1. move forward, proceed with (something)
+2. work on ",このチケットは、Kenさんと一緒に進めています。,このチケットは、Kenさんと一緒(いっしょ)に進(すす)めています。,I'm working on this ticket with Ken.
+8,[システムが]動く,[システムが]動(うご)く,"v. work, operate ",システムがちゃんと動いてないことがわかった。,システムがちゃんと動(うご)いてないことがわかった。,I realized that the system was not working properly. 
+9,ちゃんと,ちゃんと ※casual,adv. properly,ー,ー,ー
+10,間に合う,間(ま)に合(あ)う,"be in time, make a deadline",来週のリリースには間に合いそうです。,来週(らいしゅう)のリリースには間(ま)に合(あ)いそうです。,It seems that we'll make the release next week.
+11,状態,状態(じょうたい),n. status,QAしてもらえる状態のものがありますか。,QAしてもらえる状態(じょうたい)のものがありますか。,Is there anything ready for QA?
+12,課題,課題(かだい),n. issue,課題が見つかった。,課題(かだい)が見(み)つかった。,We found some issues.
+13,要件,要件(ようけん),n. requirements,要件は明日、テックリード(TL)に共有します。,要件(ようけん)は明日(あした)、TLに共有(きょうゆう)します。,I'll share requirements with TLs tomorrow.
+14,仕様,仕様(しよう),n. specification document,まだ仕様が決まってない。,まだ仕様(しよう)が決(き)まってない。,The specs haven't been decided yet.
+15,固まる (*自動詞),固(かた)まる (*intransitive verb),v. take shape (*intransitive verb),まだ仕様が固まっていません。,まだ仕様(しよう)が固(かた)まっていません。,The specs haven't taken shape yet.
+16,支障,支障(ししょう),"n. obstacle, hitch ",それによって(プロジェクトに)支障が出ています。,それによって(プロジェクトに)支障(ししょう)が出(で)ています。,It interferes with it (our project).
+17,影響,影響(えいきょう),n. effect,これは、お客様に影響があるインシデントじゃないです。,これは、お客様(きゃくさま)に影響(えいきょう)があるインシデントじゃないです。,This is not an incident that has an effect on customers.
+18,原因,原因(げんいん),n. cause,これから原因を調べます。,これから原因(げんいん)を調(しら)べます。,I will look into the causes now.
+19,相談する,相談(そうだん)する,v. consult,マネージャーに相談する。,マネージャーに相談(そうだん)する。,I'll consult with my manager.
+20,困る,困(こま)る,v. be in trouble,何か困ってることがありますか。,何(なに)か困(こま)ってることがありますか。,Do you have any difficulties?
+21,[人/チームと]連携する,[人(ひと)/チームと]連携(れんけい)する,"v. work together, align with",これはteam Bと連携してやっていきます。,これはteam Bと連携(れんけい)してやっていきます。,We are aligned with team B to do this (task).
+22,sync(シンク)する,sync(シンク)する,v. sync,あとでテックリード(TL)とsyncしておきます。,あとでTLとsyncしておきます。,I will sync with TL later.
+23,設定する,設定(せってい)する,v. set,目標を設定する。,目標(もくひょう)を設定(せってい)する。,I'll set goals / I am setting goals.
+24,反映する,反映(はんえい)する,v. reflect,先週修正したけど、Jiraに反映されてません。,先週(せんしゅう)修正(しゅうせい)したけど、Jiraに反映(はんえい)されてません。,"I edited it last week, but it isn't reflected on Jira (yet)."
+25,効率,効率(こうりつ),n. efficiency,そのやり方は、効率がよさそう。,そのやり方(かた)は、効率(こうりつ)がよさそう。,That method seems efficient.
+1,詳細,詳細(しょうさい),n. details,詳細はdocsを見てください。,詳細(しょうさい)はdocsを見(み)てください。,Please check the docs for details.
+2,詳しく,詳(くわ)しく,adv. in detail,どんなインシデントだったか詳しく教えてもらえますか。,どんなインシデントだったか詳(くわ)しく教(おし)えてもらえますか。,Could you tell me about the incident in detail?
+3,方針,方針(ほうしん),n. policy,まだ会社の方針が決まってない。,まだ会社(かいしゃ)の方針(ほうしん)が決(き)まってない。,The company policy has not been decided yet.
+4,補足,補足(ほそく),"n.  supplementary, additional",ケンさんの話への補足なんですけど、、、,ケンさんの話(はなし)への補足(ほそく)なんですけど、、、,"Let me add something to what Ken said,"
+5,効果的,効果的(こうかてき),ナadj. effective,このやり方が効果的だと思います。,このやり方(かた)が効果的(こうかてき)だと思(おも)います。,I think this way is effective.
+6,達成する,達成(たっせい)する,v. achieve,先週、OKRを達成しました。,先週(せんしゅう)、OKRを達成(たっせい)しました。,We achieved our OKR last week.
+7,報告する,報告(ほうこく)する,v. report,プロジェクトについて報告します。,プロジェクトについて報告(ほうこく)します。,I will report on the project.
+8,議論する,議論(ぎろん)する,v. discuss,それはEMが議論しているところです。,それはEMが議論(ぎろん)しているところです。,EMs are discussing it now.
+9,不具合,不具合(ふぐあい),"n. defect, bug",ちょっと不具合があるので、今日中に直します。,ちょっと不具合(ふぐあい)があるので、今日中(きょうじゅう)に直(なお)します。,"There are some defects, so I'll fix it by the end of the day."
+10,順調,順調(じゅんちょう),n/ナadj. smooth,これは、順調に進んでいます。,これは、順調(じゅんちょう)に進(すす)んでいます。,This is working well.
+11,量,量(りょう),n. amount,タスクの量が多すぎます。,タスクの量(りょう)が多(おお)すぎます。,There are too many tasks.
+12,具体的,具体的(ぐたいてき),ナadj. concrete,具体的にどんなインシデントでしたか。,具体的(ぐたいてき)にどんなインシデントでしたか。,Could you expain the incident more concretely?
+13,状況,状況(じょうきょう),n. situation,QAのリソースが厳しい状況です。,QAのリソースが厳(きび)しい状況(じょうきょう)です。,We're in a tough situation in terms of QA resources.
+14,現状,現状(げんじょう),n. present situation,現状を説明します。,現状(げんじょう)を説明(せつめい)します。,I'll explain about the present situation.
+15,進捗確認,進捗確認(しんちょくかくにん),n. progress check,まずは、進捗確認をしましょう。,まずは、進捗確認(しんちょくかくにん)をしましょう。,Let's start with a progress check.
+16,優先順位,優先順位(ゆうせんじゅんい),n. priority,優先順位を決めたほうがいいと思います。,優先順位(ゆうせんじゅんい)を決(き)めたほうがいいと思(おも)います。,I think we should decide the priority.
+17,残る,残(のこ)る,v. remain,残っているチケットはありますか。,残(のこ)っているチケットはありますか。,Are there any tickets left?
+18,着手する,着手(ちゃくしゅ)する,v. initiate,それって、もう着手してますか？,それって、もう着手(ちゃくしゅ)してますか？,Have you already initiated it? 
+19,調整する,調整(ちょうせい)する,v. adjust,最近忙しすぎるので、タスクの量を調整したほうがいいいと思っています。,最近(さいきん)忙(いそが)しすぎるので、タスクの量(りょう)を調整(ちょうせい)したほうがいいいと思(おも)っています。,I'm thinking I should adjust my workload because I've been too busy these days.
+20,認識,認識(にんしき),"n. recognition, understanding",全員で認識を合わせたいです。,全員(ぜんいん)で認識(にんしき)を合(あ)わせたいです。,I'd like to make sure everyone's on the same page.
+21,ずれる,ずれる,v. be out of alignment,認識がずれてないか確認したいです。,認識(にんしき)がずれてないか確認(かくにん)したいです。,I'd like to make sure there's no misunderstanding between us.
+22,変更する,変更(へんこう)する,v. change,スケジュールが変更しています。,スケジュールが変更(へんこう)しています。,The schedule has been changed.
+23,開始する,開始(かいし)する,v. start,来週からキャンペーンが開始します。,来週(らいしゅう)からキャンペーンが開始(かいし)します。,We will start a campaign next week.
+24,前倒しする,前倒(まえだお)しする,v. reschedule to an earlier time,このプロジェクトは、前倒しで進めましょう,このプロジェクトは、前倒(まえだお)しで進(す)めましょう。,Let's move up this project. (Ex: from next qtr to this qtr)
+25,以降,以降(いこう),n. from,コードレビューは、来週以降の予定です,コードレビューは、来週(らいしゅう)以降(いこう)の予定(よてい)です。,We're planning to do a code review from next week.
+1,締切,締切(しめきり),"n. deadline, due date",締切はいつですか。,締切(しめきり)はいつですか。,When is the due date?
+2,先に,先(さき)に,adv. ahead,他のミーティングがあって、ちょっと遅れるので、先に始めてください。,他(ほか)のミーティングがあって、ちょっと遅(おく)れるので、先(さき)に始(はじ)めてください。,Please go ahead with the meeting without me as I'm running late due to another meeting.
+3,事前に,事前(じぜん)に,adv. in advance,話したいトピックは、事前に書いておいてください。,話(はな)したいトピックは、事前(じぜん)に書いておいてください。,Please write the topics you want to talk about in advance.
+4,早めに,早(はや)めに,adv. early,これは来週リリースなので、早めにやった方がいいと思います。,これは来週(らいしゅう)リリースなので、早(はや)めにやった方(ほう)がいいと思います。,I think we should work on this earlier because we will release it next week.
+5,一旦,一旦(いったん),"adv. temporarily, for a moment",一旦、このやり方で進めましょう。,一旦(いったん)、このやり方で進(すす)めましょう,"Let's move forward in this way, temporarily. "
+6,環境,環境(かんきょう),n. environment,すべてテスト環境に反映しました。,すべてテスト環境(かんきょう)に反映(はんえい)しました。,Everything has been reflected in the test environment.
+7,業務,業務(ぎょうむ),"n. business, task",ネット環境が悪くて、業務に支障が出ています。,ネット環境(かんきょう)が悪くて、業務(ぎょうむ)に支障(ししょう)が出(で)ています。,"The internet environment (ex: wifi) here is bad, which is hindering our business."
+8,機能,機能(きのう),"n. feature, function",どんな機能があったら、もっとお客様のためになると思う?,どんな機能(きのう)があったら、もっとお客様(きゃくさま)のためになると思う?,What features do you think would be more beneficial for our customers?
+9,運用,運用(うんよう),n. operation,これは、ちゃんと運用ができていません。,これは、ちゃんと運用(うんよう)ができていません。,That operation is not working properly. 
+10,観点,観点(かんてん),n. point of view,QAの観点からすると、このタスクの優先順位は低いです。,QAの観点(かんてん)からすると、このタスクの優先(ゆうせん)順位(じゅんい)は低(ひく)いです。,"From QA's point of view, the priority of this task is low."
+11,重要,重要(じゅうよう),n./ na-adj.  important,どれが一番重要な問題ですか。,どれが一番(いちばん)重要(じゅうよう)な問題(もんだい)ですか。,Which one is the most important issue?
+12,画面共有,画面共有(がめんきょうゆう),n. screen share,画面共有してもらえる？,画面(がめん)共有(きょうゆう)してもらえる？,Can you share your screen?
+13,デプロイ,デプロイ,n. deployment,昨日、デプロイ、完了しました。,昨日(きのう)、デプロイ、完了(かんりょう)しました。,I completed the deployment yesterday.
+14,動作確認,動作(どうさ)確認(かくにん),n. checking or testing operation,動作確認はいつしますか。,動作(どうさ)確認(かくにん)はいつしますか。,When are you going to test the operation?
+15,実装する,実装(じっそう)する,v. implement,これは来週実装します,これは来週(らいしゅう)実装(じっそう)します。,We're going to implement this next week.
+16,安定している,安定(あんてい)している,v. be stable,(それは、)バ グを直したので、今は安定しています。,(それは、)バクを直(なお)したので、今は安定(あんてい)しています,It's stable now since I've resolved the bugs.
+17,発生する,発生(はっせい)する,v. occur,オンコールのときに、問題が発生しました。,オンコールのときに、問題(もんだい)が発生(はっせい)しました。,An issue occurred when I was on call.
+18,対応する,対応(たいおう)する,"v. deal with, handle",これは、他のチームが対応してくれるので、うちのチームはしなくていいです。,これは、他(ほか)のチームが対応(たいおう)してくれるので、うちのチームはしなくていいです。,"For this issue, our team doesn't need to deal with it since another team will."
+19,削除する,削除(さくじょ)する,v. delete,Jiraに同じ内容のチケットが２つあるので、こっちは削除しますね。,Jiraに同(おな)じ内容(ないよう)のチケットが２つあるので、こっちは削除(さくじょ)しますね。,I'll delete this because there are two tickets with the same content on Jira.
+20,保存する,保存(ほぞん)する,v. save,すみません、修正したあと、保存し忘れました。,すみません、修正(しゅうせい)したあと、保存(ほぞん)し忘(わす)れました。,"Sorry, I forgot to save it after I fixed it."
+21,検討する,検討(けんとう)する,"v. consider, think about",ロールバックのやり方は今検討中です。,ロールバックのやり方(かた)は今(いま)、検討中(けんとうちゅう)です。,We're now thinking about how to roll it back.
+22,関係する,関係(かんけい)する,v. be related to,このチケットに関係してる人って、誰だっけ？,このチケットに関係(かんけい)してる人(ひと)って、誰(だれ)だっけ？,Who's the person related to this ticket?
+23,継続する,継続(けいぞく)する,v. continue,weekly sync ミーティングは、今後も継続していきましょう。,weekly sync ミーティングは、今後(こんご)も継続(けいぞく)していきましょう。,Let's continue the weekly sync meetings as we've been doing.
+24,測る,測(はか)る,v. measure,この目標を達成したかどうかをどうやって測りますか。,この目標(もくひょう)を達成(たっせい)したかどうかをどうやって測(はか)りますか。,How do you measure if you've achieved your goal or not?
+25,検索する,検索(けんさく)する,v. search,この画面は検索しにくいですね。,この画面(がめん)は検索(けんさく)しにくいですね。,This screen layout makes it difficult to use the search function.
+1,時期,時期(じき),"n. period, season",リリースの時期は、調整中です。,リリースの時期(じき)は、調整中(ちょうせいちゅう)です。,The release period is being adjusted.
+2,未確定,未確定(みかくてい),n. / na-adj. undecided,スケジュールは未確定です。,スケジュールは未確定(みかくてい)です。,The schedule hasn't been decided yet.
+3,不足,"不足(ふそく)
+※コミュニーケーション不足(ぶそく)","n. shortage, lack of",チーム内のコミュニケーション不足が、問題になっています。,チーム内(ない)のコミュニケーション不足(ぶそく)が、問題(もんだい)になっています。,The lack of communication among team members is becoming a problem.
+4,余裕,余裕(よゆう),"n. time / money / space (to spare), have room in someone's mind",今月は、リリースが多くて、みんな余裕があんまりない。,今月(こんげつ)は、リリースが多(おお)くて、みんな余裕(よゆう)があんまりない。,We don't have time to spare since we have a lot of releases this month.
+5,正常,正常(せいじょう),"n. / na-adj.  normally, normal",システムが正常に動いてないので、今日中に鈴木さんが確認する予定になっています。,システムが正常(せいじょう)に動(うご)いてないので、今日中(きょうじゅう)に鈴木(すずき)さんが確認(かくにん)する予定(よてい)になっています。,"Since the system isn't working normally, I'm going to check with Suzuki-san today."
+6,最優先,最優先(さいゆうせん),n. top priority,これはリリースが来週なので、最優先で進めたほうがいいと思います。,これはリリースが来週(らいしゅう)なので、最優先(さいゆうせん)で進(すす)めたほうがいいと思います。,I think it's better to make this the top priority because the release is next week.
+7,直接,直接(ちょくせつ),adv. directly,困ったことがあったら、直接マネージャーに相談してください。,困(こま)ったことがあったら、直接(ちょくせつ)マネージャーに相談(そうだん)してください。,Please talk to your manager directly if you have any problems.
+8,途中,途中(とちゅう),"n. in the middle of, halfway",今、このチケットをやってる途中ですか。,今(いま)、このチケットをやってる途中(とちゅう)ですか。,Are you in the middle of working on this ticket?
+9,処理,処理(しょり),n. process,返金処理は、昨日、完了しました。,返金(へんきん)処理(しょり)は、昨日(きのう)、完了(かんりょう)しました。,I completed the refund process yesterday.
+10,集中する,集中(しゅうちゅう)する,"v. 1. concentrate (focus on)
+    2. concentrated",サイトへのアクセスは、どの時間帯が一番集中しますか。,サイトへのアクセスは、どの時間帯(じかんたい)が一番(いちばん)集中(しゅうちゅう)しますか。,What time is access to the site most concentrated? 
+11,遅延する,遅延(ちえん)する,v. delay,昨日の夜、システムに遅延が発生しました。,昨日(きのう)の夜(よる)、システムに遅延(ちえん)が発生(はっせい)しました。,A system delay happened last night. 
+12,作業をする,作業(さぎょう)をする,v. work ,明日、バージョンアップする作業をします。,明日(あした)、バージョンアップする作業(さぎょう)をします。,I'll work on updating this tomorrow.
+13,担当する,担当(たんとう)する,"v.  be responsible for, be in charge of ",この業務は、どこのチームが担当してるか知ってる？,この業務(ぎょうむ)は、どこのチームが担当(たんとう)してるか知(し)ってる？,Do you know which team is responsible for this work?
+14,追加する,追加(ついか)する,v. add,話したいトピックがある人は、議事録に追加しておいてくださいね。,話(はな)したいトピックがある人(ひと)は、議事録(ぎじろく)に追加(ついか)しておいてくださいね。,Please add the topics you want to talk about to the notes.
+15,提案する,提案(ていあん)する,"v. propose, suggest",何か提案がある人は、明日までに私にDMしてください。,何(なに)か提案(ていあん)がある人は、明日(あした)までに私(わたし)にDMしてください。,"If you want to suggest anything, please DM me by tomorrow."
+16,導入する,導入(どうにゅう)する,v. implement,新しいサービスを導入する時期はまだ決まってません。,新(あたら)しいサービスを導入(どうにゅう)する時期(じき)はまだ決(き)まってません。,The timing of implementing the new service hasn't been decided yet.
+17,落ちる,落(お)ちる,"v. drop, go down",夜中にアクセスが集中して、サービスが一時的に落ちました。,夜中(よなか)にアクセスが集中(しゅうちゅう)して、サービスが一時的(いちじてき)に落(お)ちました。,The service went down temporarily late last night because of a spike in access.
+18,移動する,移動(いどう)する,"v. move, shift",今Q対応しないチケットは、次のSprintに移動しておきます。,今Q(こんきゅう)対応(たいおう)しないチケットは、次(つぎ)のSprintに移動(いどう)しておきます。,Tickets that we won't deal with this Q will be moved to the next sprint.
+19,被る,被(かぶ)る,v. have a schedule conflict  (*casual),すみません、他のミーティングと被ってるので、明日のスタンドアップミーティングに参加できません。,すみません、他(ほか)のミーティングと被(かぶ)ってるので、明日のスタンドアップミーティングに参加(さんか)できません。,"Sorry, I can't join tomorrow's stand up because of a schedule conflict."
+20,ミーティングを抜ける,ミーティングを抜(ぬ)ける,v. leave the meeting,"【状況：ミーティングに出席中】
+ すみません、次のミーティングがあるので、先に抜けますね。","【状況(じょうきょう)：ミーティングに出席中(しゅっせきちゅう)】
+ すみません、次のミーティングがあるので、先(さき)に抜(ぬ)けますね。","[Situation: In a meeting]
+Sorry, I need to leave now because I have another meeting."
+21,けっこう,けっこう,adv. quite,来月はけっこう忙しくなると思うので、みなさん、今のうちにゆっくり休んでくださいね。,来月(らいげつ)はけっこう忙(いそが)しくなると思うので、みなさん、今のうちにゆっくり休(やす)んでくださいね。,Please take it easy now since we're going to be quite busy next month.
+22,ギリギリ,ギリギリ,"adv. at the last moment, barely",このチケットは、ギリギリになりそうですが、締切までに終わると思います。,このチケットは、ギリギリになりそうですが、締切(しめきり)までに終(お)わると思います。,"It'll be really tight, but I think I'll just barely get the ticket done by the deadline."
+23,基本的に,基本的(きほんてき)に,adv.  basically,基本的に、来Qのみなさんのアサインは、今Qと変更ありません。,基本的(きほんてき)に、来Q(らいきゅう)のみなさんのアサインは、今Q(こんきゅう)と変更(へんこう)ありません。,"Basically, everyone's assignments won't change much from this Q to next Q."
+24,ちなみに,ちなみに,"adv. also, in addition",ちなみに、いつぐらいまでにリリースの時期が決まるか、わかりますか。,ちなみに、いつぐらいまでにリリースの時期(じき)が決(き)まるか、わかりますか。,"Also, do you know when the release period will be decided? Approximately?"
+25,視点,視点(してん),n. point of view,お客様視点で考えてみて。,お客様(きゃくさま)視点(してん)で考(かんが)えてみて。,Think about it from the customer's point of view.
+1,雑談,雑談(ざつだん),"n. small talk, chat",まだ10分ぐらいあるので、ちょっと雑談でもしましょうか。,まだ10分ぐらいあるので、ちょっと雑談(ざつだん)でもしましょうか。,"We still have about 10 minutes left, shall we just chat? "
+2,段階,段階(だんかい),n. phase,今は、テストの準備をしている段階です。,今は、テストの準備(じゅんび)をしている段階(だんかい)です。,I'm in the preparation phase of the test now.
+3,既存,"既存(きぞん, きそん)",n. existing,既存のソースを見て、考えてみます。,既存(きぞん)のソースを見(み)て、考(かんが)えてみます。,I'll check the existing sources and then think about it.
+4,事例,事例(じれい),n. case,先週、それに似た事例がありました。,先週(せんしゅう)、それに似(に)た事例(じれい)がありました。,There was a similar case last week.
+5,品質,品質(ひんしつ),n. quality,リリースを早めると、QAの品質を保つのは難しくなると思います。,リリースを早(はや)めると、QAの品質(ひんしつ)を保(たも)つのは難(むずか)しくなると思います。,I think it'll be difficult to maintain the QA quality if we move the release date up.
+6,処理,処理(しょり),n.  processing,返金処理は、いつ完了しそうですか。,返金(へんきん)処理(しょり)は、いつ完了(かんりょう)しそうですか。,When do you think we'll finish processing the refund?
+7,障害,障害(しょうがい),"n. fault, system error",最近、障害が多く発生している。,最近(さいきん)、障害(しょうがい)が多(おお)く発生(はっせい)している。,A lot of system errors have been happening these days.
+8,クリティカル,クリティカル,"n-adj. critical, specially important",今のところ、クリティカルな障害は起きてません。,今のところ、クリティカルな障害(しょうがい)は起(お)きてません。,There are no critical failures yet. 
+9,挙動,挙動(きょどう),"n. (system) behavior, acting",ちょっと待って、Chromeの挙動がおかしい。,ちょっと待って、Chromeの挙動(きょどう)がおかしい。,"Hold on, Chrome is acting weird. "
+10,やつ,やつ,n. thing ※casual,来週QAする予定のやつ、ある？,来週(らいしゅう)QAする予定(よてい)のやつ、ある？,Is there something you plan to do QA for next week? 
+11,作成する,作成(さくせい)する,v. make (document or plan),リリースまでのスケジュールを作成したので、まだ見てない人は、今日中に確認してください,リリースまでのスケジュールを作成(さくせい)したので、まだ見てない人は、今日中(きょうじゅう)に確認(かくにん)してください,"I've made a schedule for the next release, so please check it by the end of today if you haven't."
+12,設計する,設計(せっけい)する,"v.  plan, design, layout ",ABテストを設計するときの注意点については、ここを読んどいてください。,ABテストを設計(せっけい)するときの注意点(ちゅういてん)については、ここを読(よ)んどいてください。,Please check here for the important points about planning AB tests.
+13,展開する,展開(てんかい)する,"v. expand, be open to",この資料は、全メンバーに展開されています,この資料(しりょう)は、全(ぜん)メンバーに展開(てんかい)されています,This document is now open to everyone.
+14,(内容を)詰める,内容(ないよう)を詰(つ)める,v. decide details,この件、もう少し詰めた方がいいですね。,この件(けん)、もう少(すこ)し詰(つ)めた方(ほう)がいいですね。,We should think about this more in order to decide the details. 
+15,任せる,任(まか)せる,"v. delegate, leave something with someone",このプロジェクトは、佐藤さんに任せました,このプロジェクトは、佐藤(さとう)さんに任(まか)せました,I've delegated this project to Sato-san.
+16,見積もる,見積(みつ)もる,v. estimate,見積もると、だいたいトータルで2ヶ月かかります。,見積(みつ)もると、だいたいトータルで2ヶ月(かげつ)かかります。,I estimate it will take about 2 months in total
+17,紐づく           ,紐(ひも)づく           ,v. link,この情報は、お客様IDに紐づいています,この情報(じょうほう)は、お客様(きゃくさま)IDに紐(ひも)づいています,This information is linked to customer ID.
+18,感じ,感(かん)じ,n. like [something],こんな感じです。,こんな感(かん)じです。,It's like this.
+19,以外,以外(いがい),"n. besides, except",ここに書いてあるトピック以外に何か話したいことありますか。,ここに書いてあるトピック以外(いがい)に何(なに)か話(はな)したいことありますか。,Is there anything else you want to talk about besides the topics written here?
+20,同時に,同時(どうじ)に,"adv. at the same time, simultaneously ",同時に担当できるプロジェクトの数には限界があります,同時(どうじ)に担当(たんとう)できるプロジェクトの数(かず)には限界(げんかい)があります,There's a limit to the number of projects we can handle at the same time.
+21,結局,結局(けっきょく),"adv. after all, in the end",これを解決しておかないと、結局、リリース直前に問題が出てくる。,これを解決(かいけつ)しておかないと、結局(けっきょく)、リリース直前(ちょくぜん)に問題(もんだい)が出(で)てくる。,"If we don't solve this problem, in the end it'll happen just before the release. "
+22,ほぼ ,ほぼ ,adv. mostly,このチケットはほぼ終わりました,このチケットはほぼ終(お)わりました,I've mostly finished this ticket.
+23,そもそも,そもそも,adv. in the first place ,そもそも、このミーティングの目的はなんでしたっけ？,そもそも、このミーティングの目的(もくてき)はなんでしたっけ？,What was the point of this meeting in the first place?
+24,どんどん,どんどん,adv. one after the other (usually quickly),どんどん意見を言ってくださいね,どんどん意見(いけん)を言ってくださいね,Let's all share our opinions one after the other. 
+25,〜側,〜側(がわ),n. side ,これはQA側で対応します,これはQA側(がわ)で対応(たいおう)します,"OK, the QA side will deal with this."
