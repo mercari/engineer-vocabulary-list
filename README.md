@@ -18,10 +18,10 @@
 
 ## Usage
 
-- Download the [excel file](https://github.com/mercari/engineer-vocabulary-list/blob/master/Engineer%20Vocabulary%20List.xlsx) or use [Quizlet](https://quizlet.com/merletlists/folders/engineer-vocabulary-lists/sets)
+- Download the [excel file](https://github.com/mercari/engineer-vocabulary-list/blob/master/Engineer%20Vocabulary%20List.xlsx) or the [csv files](https://github.com/mercari/engineer-vocabulary-list/tree/master/csv), or use [Quizlet](https://quizlet.com/merletlists/folders/engineer-vocabulary-lists/sets)
 - Create your own copy to edit
 
-- Excelファイルをダウンロードするか、Quizletを使ってください
+- ExcelファイルやCSVファイルをダウンロードするか、Quizletを使ってください
 - コピーして自由に編集することができます
 
 ## License
