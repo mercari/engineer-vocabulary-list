@@ -1,10 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Shippori+Mincho+B1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
 
 html,
 body {
   padding: 0;
   margin: 0;
   font-family: 'Shippori Mincho B1', -apple-system, BlinkMacSystemFont, serif;
+}
+
+.billabong {
+  font-family: 'Redressed', cursive;
+}
+.serif {
+  font-family: -apple-system, BlinkMacSystemFont, serif;
 }
 
 a {

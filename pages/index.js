@@ -22,12 +22,13 @@ const Home = () => {
   }
   return (
     <div>
-      <h1 className="title">Engineer Vocabulary List in Japanese/English エンジニア向け日英ボキャブラリーリスト</h1>
+      <h1 className="title billabong">Engineer Vocabulary List in Japanese/English</h1>
+      <h2 className="title">エンジニア向け日英ボキャブラリーリスト</h2>
       <p className="description">
         Consolidated and Comprehensive guide to communication in multi national team. (Japan)
         <br/>
         <br/>
-        <a href="https://github.com/kevincobain2000/engineer-vocabulary-list">Add more translations</a>
+        <a className="serif" href="https://github.com/kevincobain2000/engineer-vocabulary-list">Add more translations</a>
       </p>
       <input onChange={handleSearch} type="text" placeholder="Search here.."/>
       <br/><br/>
