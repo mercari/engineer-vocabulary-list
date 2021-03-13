@@ -1,0 +1,35 @@
+on: [push]
+name: "Continuous Integration"
+
+jobs:
+  test:
+    strategy:
+      matrix:
+        node-versions: ['10.16.3', '14.9']
+    runs-on: ubuntu-latest
+    env:
+      NEXT_TELEMETRY_DISABLED: 1
+    steps:
+    - name: Setup Node.js ${{ matrix.node-versions }}
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-versions }}
+
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Install Dependencies
+      run: npm install
+
+    - name: Stylelint
+      run: npm run stylelint
+
+    - name: Eslint
+      run: npm run eslint
+
+    - name: Next Build
+      run: npm run build
+
+    - name: Next Export
+      run: npm run export
+

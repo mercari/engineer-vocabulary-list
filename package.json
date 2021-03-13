@@ -1,0 +1,31 @@
+{
+  "name": "engineer-vocabulary-list",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next build && next export -o docs/",
+    "eslint-fix": "npm run eslint -- --fix --quiet",
+    "eslint": "eslint -c .eslintrc.json --ext .js ./pages/**",
+    "stylelint": "node_modules/stylelint/bin/stylelint.js --config=.stylelintrc.json styles/*",
+    "lint": "npm run stylelint && npm run eslint"
+  },
+  "dependencies": {
+    "fuse.js": "^6.4.6",
+    "next": "10.0.8",
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.22.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.22.0",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "stylelint": "^13.12.0"
+  }
+}

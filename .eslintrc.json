@@ -1,0 +1,60 @@
+{
+  "root": true,
+  "parser": "babel-eslint",
+  "extends": [
+    "eslint:recommended",
+    "plugin:react/recommended",
+    "plugin:import/errors",
+    "plugin:import/warnings",
+    "plugin:jsx-a11y/recommended",
+    "plugin:react-hooks/recommended",
+    "airbnb"
+  ],
+  "env": {
+    "browser": true,
+    "commonjs": true,
+    "es6": true,
+    "node": true
+  },
+  "parserOptions": {
+    "ecmaVersion": 2018,
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  },
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
+  },
+  "rules": {
+    "semi": [2, "never"],
+    "react/react-in-jsx-scope": 0,
+    "react/jsx-filename-extension": 0,
+    "react/react-in-jsx-scope": 0,
+    "react/react-in-jsx-scope": 0,
+    "react/react-in-jsx-scope": 0,
+    "react/jsx-tag-spacing": 0,
+    "react/react-in-jsx-scope": 0,
+    "react/jsx-tag-spacing": 0,
+    "react/react-in-jsx-scope": 0,
+    "react/react-in-jsx-scope": 0,
+    "react/jsx-tag-spacing": 0,
+    "react/react-in-jsx-scope": 0,
+    "react/jsx-tag-spacing": 0,
+    "react/jsx-one-expression-per-line": 0,
+    "react/react-in-jsx-scope": 0,
+    "react/jsx-tag-spacing": 0,
+    "react/react-in-jsx-scope": 0,
+    "react/react-in-jsx-scope": 0,
+    "react/jsx-indent": 0,
+    "react/react-in-jsx-scope": 0,
+    "react/jsx-indent": 0,
+    "react/prop-types": 0,
+    "react/jsx-props-no-spreading":0,
+    "react/no-array-index-key":0,
+    "no-plusplus":0
+  },
+  "plugins": []
+}
