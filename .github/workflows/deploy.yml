@@ -1,11 +1,14 @@
-on: [push]
-name: "CI"
+on:
+  push:
+    branches:
+      - master
+name: "Deploy to Github Pages"
 
 jobs:
   test:
     strategy:
       matrix:
-        node-versions: ['10.16.3', '14.9']
+        node-versions: [14.9']
     runs-on: ubuntu-latest
     env:
       NEXT_TELEMETRY_DISABLED: 1
@@ -32,4 +35,11 @@ jobs:
 
     - name: Next Export
       run: npm run export
+
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./docs
+        publish_branch: gh-pages
 

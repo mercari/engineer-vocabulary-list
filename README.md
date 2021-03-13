@@ -1,4 +1,8 @@
 # Engineer Vocabulary List in Japanese/English エンジニア向け日英ボキャブラリーリスト
+
+This is a fork.
+This fork provides a web interface for the data from the fork.
+This application is written in next.js react and published on Github Pages.
 ## Demo
 
 https://kevincobain2000.github.io/engineer-vocabulary-list/
