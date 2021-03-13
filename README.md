@@ -1,8 +1,11 @@
 # Engineer Vocabulary List in Japanese/English エンジニア向け日英ボキャブラリーリスト
 
+This is a fork.
+This fork provides a web interface for the data from the fork.
+This application is written in next.js react and published on Github Pages.
 ## Demo
 
-<img width="465" alt="image1" src="https://user-images.githubusercontent.com/2178775/94648364-6225fb00-032d-11eb-9a32-7f142a766908.png">
+https://kevincobain2000.github.io/engineer-vocabulary-list/
 
 ## Feature
 
@@ -16,13 +19,17 @@
 - メルペイのミーティングで実際に使われているボキャブラリーをリスト化
 - 中級レベル向けの厳選語彙100個
 
-## Usage
+## Development
 
-- Download the [excel file](https://github.com/mercari/engineer-vocabulary-list/blob/master/Engineer%20Vocabulary%20List.xlsx) or the [csv files](https://github.com/mercari/engineer-vocabulary-list/tree/master/csv), or use [Quizlet](https://quizlet.com/merletlists/folders/engineer-vocabulary-lists/sets)
-- Create your own copy to edit
+```
+npm install
+npm run dev
+```
+## Contributing
 
-- ExcelファイルやCSVファイルをダウンロードするか、Quizletを使ってください
-- コピーして自由に編集することができます
+- Fork it
+- Edit ``pages/api/dictionary.js``
+- Submit your translations to develop branch
 
 ## License
 

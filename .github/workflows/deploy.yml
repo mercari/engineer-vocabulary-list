@@ -1,0 +1,45 @@
+on:
+  push:
+    branches:
+      - master
+name: "Release"
+
+jobs:
+  deploy:
+    strategy:
+      matrix:
+        node-versions: ['14.9']
+    runs-on: ubuntu-latest
+    env:
+      NEXT_TELEMETRY_DISABLED: 1
+    steps:
+    - name: Setup Node.js ${{ matrix.node-versions }}
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-versions }}
+
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Install Dependencies
+      run: npm install
+
+    - name: Stylelint
+      run: npm run stylelint
+
+    - name: Eslint
+      run: npm run eslint
+
+    - name: Next Build
+      run: npm run build
+
+    - name: Next Export
+      run: npm run export
+
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./docs
+        publish_branch: gh-pages
+
