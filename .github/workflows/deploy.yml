@@ -2,13 +2,13 @@ on:
   push:
     branches:
       - master
-name: "Deploy to Github Pages"
+name: "Deploy"
 
 jobs:
   test:
     strategy:
       matrix:
-        node-versions: [14.9']
+        node-versions: ['14.9']
     runs-on: ubuntu-latest
     env:
       NEXT_TELEMETRY_DISABLED: 1
