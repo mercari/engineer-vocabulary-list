@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "export": "next build && next export -o docs/",
+    "export": "NODE_ENV=production && next build && next export -o docs/",
     "eslint-fix": "npm run eslint -- --fix --quiet",
     "eslint": "eslint -c .eslintrc.json --ext .js ./pages/**",
     "stylelint": "node_modules/stylelint/bin/stylelint.js --config=.stylelintrc.json styles/*",
