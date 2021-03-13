@@ -2,10 +2,10 @@ on:
   push:
     branches:
       - master
-name: "Deploy"
+name: "Release"
 
 jobs:
-  test:
+  deploy:
     strategy:
       matrix:
         node-versions: ['14.9']
