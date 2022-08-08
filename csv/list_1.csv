@@ -1,28 +1,28 @@
-日本語,日本語 ※ふりがなつき,English,例文(れいぶん) example sentence,ハイライト highlight,例文(れいぶん) example sentence　※ふりがなつき,English,English with cloze
-チケットを取る,チケットを取(と)る,take a ticket,すでに3つチケットを取っているので、今週は取れません。,チケットを取っ,すでに3(みっ)つチケットを取(と)っているので、今週(こんしゅう)は取(と)れません。,I can't take a ticket this week because I have already taken 3.,I can't t___ a t_____ this week because I have already taken 3.
-すでに,すでに,adv. already,ー,ー,ー,ー,ー
-プルリクを出す,プルリクを出(だ)す,"make/create a pull request ",昨日、プルリクを出しました。,プルリクを出し,昨日(きのう)、プルリクを出(だ)しました。,"I made a pull request yesterday. ","I m___ a p___ _______ yesterday. "
-開発する,開発(かいはつ)する,v. develop,今、Xを開発しています。,開発し,今(いま)、Xを開発(かいはつ)しています。,I'm developing X now.,I'm d_________ X now.
-修正する,修正(しゅうせい)する,"v. correct, revise",修正は今日中に終わると思います。,修正,修正(しゅうせい)は今日中(きょうじゅう)に終(お)わると思(おも)います。,I think I'll revise it by the end of today.,I think I'll r_____ it by the end of today.
-マージする,マージする,v. merge,XをYにマージしました。,マージし,XをYにマージしました。,I merged X with Y.,I m_____ X with Y.
+JAPANESE WORD,JAPANESE WORD WITH KANA,ENGLISH WORD,SENTENCE ID,JAPANESE SENTENCE,JAPANESE HIGHLIGHT,JAPANESE SENTENCE WITH KANA,ENGLISH SENTENCE,ENGLISH SENTENCE WITH CLOZE,ENGLISH AUDIO FILE
+チケットを取る,チケットを取(と)る,take a ticket,0,すでに3つチケットを取っているので、今週は取れません。,チケットを取っ,すでに3(みっ)つチケットを取(と)っているので、今週(こんしゅう)は取(と)れません。,I can't take a ticket this week because I have already taken 3.,I can't t___ a t_____ this week because I have already taken 3.,
+すでに,すでに,adv. already,0,すでに3つチケットを取っているので、今週は取れません。,すでに,すでに3(みっ)つチケットを取(と)っているので、今週(こんしゅう)は取(と)れません。,I can't take a ticket this week because I have already taken 3.,I can't take a ticket this week because I have a______ taken 3.,
+プルリクを出す,プルリクを出(だ)す,"make/create a pull request ",1,昨日、プルリクを出しました。,プルリクを出し,昨日(きのう)、プルリクを出(だ)しました。,"I made a pull request yesterday. ","I m___ a p___ _______ yesterday. ",
+開発する,開発(かいはつ)する,v. develop,2,今、SNSを開発しています。,開発し,今(いま)、SNSを開発(かいはつ)しています。,I'm developing social media now.,I'm d_________ social media now.,
+修正する,修正(しゅうせい)する,"v. correct, revise",3,修正は今日中に終わると思います。,修正,修正(しゅうせい)は今日中(きょうじゅう)に終(お)わると思(おも)います。,I think I'll revise it by the end of today.,I think I'll r_____ it by the end of today.,
+マージする,マージする,v. merge,4,featureブランチをmainブランチにマージしました。,マージし,featureブランチをmainブランチにマージしました。,I merged feature branch with main branch.,I m_____ X with Y.,
 進める,進(すす)める,"v. [*transitive verb 他動詞]
 1. move forward, proceed with (something)
-2. work on ",このチケットは、Kenさんと一緒に進めています。,進め,このチケットは、Kenさんと一緒(いっしょ)に進(すす)めています。,I'm working on this ticket with Ken.,I'm w______ __ this ticket with Ken.
-[システムが]動く,[システムが]動(うご)く,"v. work, operate ",システムがちゃんと動いてないことがわかった。,動い,システムがちゃんと動(うご)いてないことがわかった。,"I realized that the system was not working properly. ","I realized that the system was not working p_______. "
-ちゃんと,ちゃんと ※casual,adv. properly,ー,ー,ー,ー,ー
-締切に間に合う,締切(しめきり)に間(ま)に合(あ)う,"be in time, make a deadline",来週の締切には間に合いそうです。,締切には間に合い,来週(らいしゅう)の締切(しめきり)には間(ま)に合(あ)いそうです。,It seems that we'll make the deadline next week.,It seems that we'll m___ the d_______ next week.
-状態,状態(じょうたい),n. status,QAしてもらえる状態のものがありますか。,状態,QAしてもらえる状態(じょうたい)のものがありますか。,Is there anything whose status is ready for QA?,Is there anything whose s_____ is ready for QA?
-課題,課題(かだい),n. issue,課題が見つかった。,課題,課題(かだい)が見(み)つかった。,We found some issues.,We found some i_____.
-要件,要件(ようけん),n. requirements,要件は明日、テックリード(TL)に共有します。,要件,要件(ようけん)は明日(あした)、TLに共有(きょうゆう)します。,I'll share requirements with TLs tomorrow.,I'll share r___________ with TLs tomorrow.
-仕様,仕様(しよう),n. specification document,まだ仕様が決まってない。,仕様,まだ仕様(しよう)が決(き)まってない。,The specs haven't been decided yet.,The s____ haven't been decided yet.
-固まる (*自動詞),固(かた)まる (*intransitive verb),v. take shape (*intransitive verb),まだ仕様が固まっていません。,固まっ,まだ仕様(しよう)が固(かた)まっていません。,The specs haven't taken shape yet.,The specs haven't t____ _____ yet.
-支障をきたす,支障(ししょう)をきたす,"n. interfere ",それによって(プロジェクトに)支障が出ています。,支障が出,それによって(プロジェクトに)支障(ししょう)が出(で)ています。,It interferes with it (our project).,It i_________ with it (our project).
-影響,影響(えいきょう),n. effect,これは、お客様に影響があるインシデントじゃないです。,影響,これは、お客様(きゃくさま)に影響(えいきょう)があるインシデントじゃないです。,This is not an incident that has an effect on customers.,This is not an incident that has an e_____ on customers.
-原因,原因(げんいん),n. cause,これから原因を調べます。,原因,これから原因(げんいん)を調(しら)べます。,I will look into the causes now.,I will look into the c_____ now.
-相談する,相談(そうだん)する,v. consult,マネージャーに相談する。,相談する,マネージャーに相談(そうだん)する。,I'll consult with my manager.,I'll c______ with my manager.
-困る,困(こま)る,v. have difficulties,何か困ってることがありますか。,困っ,何(なに)か困(こま)ってることがありますか。,Do you have any difficulties?,Do you h___ any d___________?
-[人/チームと]連携する,[人(ひと)/チームと]連携(れんけい)する,"v. work together, align with",これはteam Bと連携してやっていきます。,連携し,これはteam Bと連携(れんけい)してやっていきます。,We are aligned with team B to do this (task).,We are a______ ____ team B to do this (task).
-sync(シンク)する,sync(シンク)する,v. sync,あとでテックリード(TL)とsyncしておきます。,syncし,あとでTLとsyncしておきます。,I will sync with TL later.,I will s___ with TL later.
-設定する,設定(せってい)する,v. set,目標を設定する。,設定する,目標(もくひょう)を設定(せってい)する。,I'll set goals / I am setting goals.,I'll s__ goals / I am s______ goals.
-反映する,反映(はんえい)する,v. reflect,先週修正したけど、Jiraに反映されてません。,反映さ,先週(せんしゅう)修正(しゅうせい)したけど、Jiraに反映(はんえい)されてません。,"I edited it last week, but it isn't reflected on Jira (yet).","I edited it last week, but it isn't r________ on Jira (yet)."
-効率,効率(こうりつ),n. efficiency,そのやり方は、効率がよさそう。,効率,そのやり方(かた)は、効率(こうりつ)がよさそう。,That method seems efficient.,That method seems e________.
+2. work on ",5,このチケットは、Kenさんと一緒に進めています。,進め,このチケットは、Kenさんと一緒(いっしょ)に進(すす)めています。,I'm working on this ticket with Ken.,I'm w______ __ this ticket with Ken.,
+[システムが]動く,[システムが]動(うご)く,"v. work, operate ",6,システムがちゃんと動いてないことがわかった。,動い,システムがちゃんと動(うご)いてないことがわかった。,"I realized that the system was not working properly. ","I realized that the system was not w______ properly. ",
+ちゃんと,ちゃんと ※casual,adv. properly,6,システムがちゃんと動いてないことがわかった。,ちゃんと,システムがちゃんと動(うご)いてないことがわかった。,"I realized that the system was not working properly. ","I realized that the system was not working p_______. ",
+締切に間に合う,締切(しめきり)に間(ま)に合(あ)う,"be in time, make a deadline",7,来週の締切には間に合いそうです。,締切には間に合い,来週(らいしゅう)の締切(しめきり)には間(ま)に合(あ)いそうです。,It seems that we'll make the deadline next week.,It seems that we'll m___ the d_______ next week.,
+状態,状態(じょうたい),n. status,8,QAしてもらえる状態のものがありますか。,状態,QAしてもらえる状態(じょうたい)のものがありますか。,Is there anything whose status is ready for QA?,Is there anything whose s_____ is ready for QA?,
+課題,課題(かだい),n. issue,9,課題が見つかった。,課題,課題(かだい)が見(み)つかった。,We found some issues.,We found some i_____.,
+要件,要件(ようけん),n. requirements,10,要件は明日、テックリード(TL)に共有します。,要件,要件(ようけん)は明日(あした)、TLに共有(きょうゆう)します。,I'll share requirements with TLs tomorrow.,I'll share r___________ with TLs tomorrow.,
+仕様,仕様(しよう),n. specification document,11,まだ仕様が決まってない。,仕様,まだ仕様(しよう)が決(き)まってない。,The specs haven't been decided yet.,The s____ haven't been decided yet.,
+固まる (*自動詞),固(かた)まる (*intransitive verb),v. take shape (*intransitive verb),12,まだ仕様が固まっていません。,固まっ,まだ仕様(しよう)が固(かた)まっていません。,The specs haven't taken shape yet.,The specs haven't t____ _____ yet.,
+支障をきたす,支障(ししょう)をきたす,"n. interfere ",13,それによってプロジェクトに支障が出ています。,支障が出,それによってプロジェクトに支障(ししょう)が出(で)ています。,It interferes with our project.,It i_________ with it (our project).,
+影響,影響(えいきょう),n. effect,14,これは、お客様に影響があるインシデントじゃないです。,影響,これは、お客様(きゃくさま)に影響(えいきょう)があるインシデントじゃないです。,This is not an incident that has an effect on customers.,This is not an incident that has an e_____ on customers.,
+原因,原因(げんいん),n. cause,15,これから原因を調べます。,原因,これから原因(げんいん)を調(しら)べます。,I will look into the causes now.,I will look into the c_____ now.,
+相談する,相談(そうだん)する,v. consult,16,マネージャーに相談する。,相談する,マネージャーに相談(そうだん)する。,I'll consult with my manager.,I'll c______ with my manager.,
+困る,困(こま)る,v. have difficulties,17,何か困ってることがありますか。,困っ,何(なに)か困(こま)ってることがありますか。,Do you have any difficulties?,Do you h___ any d___________?,
+[人/チームと]連携する,[人(ひと)/チームと]連携(れんけい)する,"v. work together, align with",18,このタスクはteam Bと連携してやっていきます。,連携し,このタスクはteam Bと連携(れんけい)してやっていきます。,We are aligned with team B to do this task.,We are a______ ____ team B to do this (task).,
+sync(シンク)する,sync(シンク)する,v. sync,19,あとでテックリード(TL)とsyncしておきます。,syncし,あとでTLとsyncしておきます。,I will sync with TL later.,I will s___ with TL later.,
+設定する,設定(せってい)する,v. set,20,目標を設定する。,設定する,目標(もくひょう)を設定(せってい)する。,I'll set goals / I am setting goals.,I'll s__ goals / I am s______ goals.,
+反映する,反映(はんえい)する,v. reflect,21,先週修正したけど、Jiraに反映されてません。,反映さ,先週(せんしゅう)修正(しゅうせい)したけど、Jiraに反映(はんえい)されてません。,"I edited it last week, but it isn't reflected on Jira yet.","I edited it last week, but it isn't r________ on Jira yet.",
+効率,効率(こうりつ),n. efficiency,22,そのやり方は、効率がよさそう。,効率,そのやり方(かた)は、効率(こうりつ)がよさそう。,That method seems efficient.,That method seems e________.,
