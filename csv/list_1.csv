@@ -10,17 +10,17 @@
 2. work on ",このチケットは、Kenさんと一緒に進めています。,進め,このチケットは、Kenさんと一緒(いっしょ)に進(すす)めています。,I'm working on this ticket with Ken.,I'm w______ __ this ticket with Ken.
 [システムが]動く,[システムが]動(うご)く,"v. work, operate ",システムがちゃんと動いてないことがわかった。,動い,システムがちゃんと動(うご)いてないことがわかった。,"I realized that the system was not working properly. ","I realized that the system was not working p_______. "
 ちゃんと,ちゃんと ※casual,adv. properly,ー,ー,ー,ー,ー
-間に合う,間(ま)に合(あ)う,"be in time, make a deadline",来週のリリースには間に合いそうです。,間に合い,来週(らいしゅう)のリリースには間(ま)に合(あ)いそうです。,It seems that we'll make the release next week.,It seems that we'll make the release next week.
-状態,状態(じょうたい),n. status,QAしてもらえる状態のものがありますか。,状態,QAしてもらえる状態(じょうたい)のものがありますか。,Is there anything ready for QA?,Is there anything ready for QA?
+締切に間に合う,締切(しめきり)に間(ま)に合(あ)う,"be in time, make a deadline",来週の締切には間に合いそうです。,締切には間に合い,来週(らいしゅう)の締切(しめきり)には間(ま)に合(あ)いそうです。,It seems that we'll make the deadline next week.,It seems that we'll m___ the d_______ next week.
+状態,状態(じょうたい),n. status,QAしてもらえる状態のものがありますか。,状態,QAしてもらえる状態(じょうたい)のものがありますか。,Is there anything whose status is ready for QA?,Is there anything whose s_____ is ready for QA?
 課題,課題(かだい),n. issue,課題が見つかった。,課題,課題(かだい)が見(み)つかった。,We found some issues.,We found some i_____.
 要件,要件(ようけん),n. requirements,要件は明日、テックリード(TL)に共有します。,要件,要件(ようけん)は明日(あした)、TLに共有(きょうゆう)します。,I'll share requirements with TLs tomorrow.,I'll share r___________ with TLs tomorrow.
 仕様,仕様(しよう),n. specification document,まだ仕様が決まってない。,仕様,まだ仕様(しよう)が決(き)まってない。,The specs haven't been decided yet.,The s____ haven't been decided yet.
 固まる (*自動詞),固(かた)まる (*intransitive verb),v. take shape (*intransitive verb),まだ仕様が固まっていません。,固まっ,まだ仕様(しよう)が固(かた)まっていません。,The specs haven't taken shape yet.,The specs haven't t____ _____ yet.
-支障,支障(ししょう),"n. obstacle, hitch ",それによって(プロジェクトに)支障が出ています。,支障,それによって(プロジェクトに)支障(ししょう)が出(で)ています。,It interferes with it (our project).,It interferes with it (our project).
+支障をきたす,支障(ししょう)をきたす,"n. interfere ",それによって(プロジェクトに)支障が出ています。,支障が出,それによって(プロジェクトに)支障(ししょう)が出(で)ています。,It interferes with it (our project).,It i_________ with it (our project).
 影響,影響(えいきょう),n. effect,これは、お客様に影響があるインシデントじゃないです。,影響,これは、お客様(きゃくさま)に影響(えいきょう)があるインシデントじゃないです。,This is not an incident that has an effect on customers.,This is not an incident that has an e_____ on customers.
 原因,原因(げんいん),n. cause,これから原因を調べます。,原因,これから原因(げんいん)を調(しら)べます。,I will look into the causes now.,I will look into the c_____ now.
 相談する,相談(そうだん)する,v. consult,マネージャーに相談する。,相談する,マネージャーに相談(そうだん)する。,I'll consult with my manager.,I'll c______ with my manager.
-困る,困(こま)る,v. be in trouble,何か困ってることがありますか。,困っ,何(なに)か困(こま)ってることがありますか。,Do you have any difficulties?,Do you have any difficulties?
+困る,困(こま)る,v. have difficulties,何か困ってることがありますか。,困っ,何(なに)か困(こま)ってることがありますか。,Do you have any difficulties?,Do you h___ any d___________?
 [人/チームと]連携する,[人(ひと)/チームと]連携(れんけい)する,"v. work together, align with",これはteam Bと連携してやっていきます。,連携し,これはteam Bと連携(れんけい)してやっていきます。,We are aligned with team B to do this (task).,We are a______ ____ team B to do this (task).
 sync(シンク)する,sync(シンク)する,v. sync,あとでテックリード(TL)とsyncしておきます。,syncし,あとでTLとsyncしておきます。,I will sync with TL later.,I will s___ with TL later.
 設定する,設定(せってい)する,v. set,目標を設定する。,設定する,目標(もくひょう)を設定(せってい)する。,I'll set goals / I am setting goals.,I'll s__ goals / I am s______ goals.
