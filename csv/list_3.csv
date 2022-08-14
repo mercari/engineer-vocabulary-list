@@ -1,26 +1,26 @@
-日本語,日本語 ※ふりがなつき,English,例文(れいぶん) example sentence,例文(れいぶん) example sentence　※ふりがなつき,English
-締切,締切(しめきり),"n. deadline, due date",締切はいつですか。,締切(しめきり)はいつですか。,When is the due date?
-先に,先(さき)に,adv. ahead,他のミーティングがあって、ちょっと遅れるので、先に始めてください。,他(ほか)のミーティングがあって、ちょっと遅(おく)れるので、先(さき)に始(はじ)めてください。,Please go ahead with the meeting without me as I'm running late due to another meeting.
-事前に,事前(じぜん)に,adv. in advance,話したいトピックは、事前に書いておいてください。,話(はな)したいトピックは、事前(じぜん)に書いておいてください。,Please write the topics you want to talk about in advance.
-早めに,早(はや)めに,adv. early,これは来週リリースなので、早めにやった方がいいと思います。,これは来週(らいしゅう)リリースなので、早(はや)めにやった方(ほう)がいいと思います。,I think we should work on this earlier because we will release it next week.
-一旦,一旦(いったん),"adv. temporarily, for a moment",一旦、このやり方で進めましょう。,一旦(いったん)、このやり方で進(すす)めましょう,"Let's move forward in this way, temporarily. "
-環境,環境(かんきょう),n. environment,すべてテスト環境に反映しました。,すべてテスト環境(かんきょう)に反映(はんえい)しました。,Everything has been reflected in the test environment.
-業務,業務(ぎょうむ),"n. business, task",ネット環境が悪くて、業務に支障が出ています。,ネット環境(かんきょう)が悪くて、業務(ぎょうむ)に支障(ししょう)が出(で)ています。,"The internet environment (ex: wifi) here is bad, which is hindering our business."
-機能,機能(きのう),"n. feature, function",どんな機能があったら、もっとお客様のためになると思う?,どんな機能(きのう)があったら、もっとお客様(きゃくさま)のためになると思う?,What features do you think would be more beneficial for our customers?
-運用,運用(うんよう),n. operation,これは、ちゃんと運用ができていません。,これは、ちゃんと運用(うんよう)ができていません。,That operation is not working properly. 
-観点,観点(かんてん),n. point of view,QAの観点からすると、このタスクの優先順位は低いです。,QAの観点(かんてん)からすると、このタスクの優先(ゆうせん)順位(じゅんい)は低(ひく)いです。,"From QA's point of view, the priority of this task is low."
-重要,重要(じゅうよう),n./ na-adj.  important,どれが一番重要な問題ですか。,どれが一番(いちばん)重要(じゅうよう)な問題(もんだい)ですか。,Which one is the most important issue?
-画面共有,画面共有(がめんきょうゆう),n. screen share,画面共有してもらえる？,画面(がめん)共有(きょうゆう)してもらえる？,Can you share your screen?
-デプロイ,デプロイ,n. deployment,昨日、デプロイ、完了しました。,昨日(きのう)、デプロイ、完了(かんりょう)しました。,I completed the deployment yesterday.
-動作確認,動作(どうさ)確認(かくにん),n. checking or testing operation,動作確認はいつしますか。,動作(どうさ)確認(かくにん)はいつしますか。,When are you going to test the operation?
-実装する,実装(じっそう)する,v. implement,これは来週実装します,これは来週(らいしゅう)実装(じっそう)します。,We're going to implement this next week.
-安定している,安定(あんてい)している,v. be stable,(それは、)バ グを直したので、今は安定しています。,(それは、)バクを直(なお)したので、今は安定(あんてい)しています,It's stable now since I've resolved the bugs.
-発生する,発生(はっせい)する,v. occur,オンコールのときに、問題が発生しました。,オンコールのときに、問題(もんだい)が発生(はっせい)しました。,An issue occurred when I was on call.
-対応する,対応(たいおう)する,"v. deal with, handle",これは、他のチームが対応してくれるので、うちのチームはしなくていいです。,これは、他(ほか)のチームが対応(たいおう)してくれるので、うちのチームはしなくていいです。,"For this issue, our team doesn't need to deal with it since another team will."
-削除する,削除(さくじょ)する,v. delete,Jiraに同じ内容のチケットが２つあるので、こっちは削除しますね。,Jiraに同(おな)じ内容(ないよう)のチケットが２つあるので、こっちは削除(さくじょ)しますね。,I'll delete this because there are two tickets with the same content on Jira.
-保存する,保存(ほぞん)する,v. save,すみません、修正したあと、保存し忘れました。,すみません、修正(しゅうせい)したあと、保存(ほぞん)し忘(わす)れました。,"Sorry, I forgot to save it after I fixed it."
-検討する,検討(けんとう)する,"v. consider, think about",ロールバックのやり方は今検討中です。,ロールバックのやり方(かた)は今(いま)、検討中(けんとうちゅう)です。,We're now thinking about how to roll it back.
-関係する,関係(かんけい)する,v. be related to,このチケットに関係してる人って、誰だっけ？,このチケットに関係(かんけい)してる人(ひと)って、誰(だれ)だっけ？,Who's the person related to this ticket?
-継続する,継続(けいぞく)する,v. continue,weekly sync ミーティングは、今後も継続していきましょう。,weekly sync ミーティングは、今後(こんご)も継続(けいぞく)していきましょう。,Let's continue the weekly sync meetings as we've been doing.
-測る,測(はか)る,v. measure,この目標を達成したかどうかをどうやって測りますか。,この目標(もくひょう)を達成(たっせい)したかどうかをどうやって測(はか)りますか。,How do you measure if you've achieved your goal or not?
-検索する,検索(けんさく)する,v. search,この画面は検索しにくいですね。,この画面(がめん)は検索(けんさく)しにくいですね。,This screen layout makes it difficult to use the search function.
+JAPANESE WORD,JAPANESE WORD WITH KANA,ENGLISH WORD,PART OF WORD,SYNONYM,PHONETICS,SENTENCE ID,JAPANESE SENTENCE,JAPANESE HIGHLIGHT,JAPANESE SENTENCE WITH KANA,ENGLISH SENTENCE,ENGLISH SENTENCE WITH CLOZE,ENGLISH AUDIO FILE
+締切,締切(しめきり),due date,Noun,deadline,du deɪt,048,締切はいつですか。,締切,締切(しめきり)はいつですか。,When is the due date?,When is the d{{ue}} {{date}}?,
+先に,先(さき)に,ahead,Adverb,,əˈhɛd,049,他のミーティングがあって、ちょっと遅れるので、先に始めてください。,先に,他(ほか)のミーティングがあって、ちょっと遅(おく)れるので、先(さき)に始(はじ)めてください。,Please go ahead with the meeting without me as I'm running late due to another meeting.,Please go a{{head}} with the meeting without me as I'm running late due to another meeting.,
+事前に,事前(じぜん)に,in advance,Adverb,,ɪn ədˈvæns,050,話したいトピックは、事前に書いておいてください。,事前に,話(はな)したいトピックは、事前(じぜん)に書いておいてください。,Please write the topics you want to talk about in advance.,Please write the topics you want to talk about i{{n}} {{advance}}.,
+早めに,早(はや)めに,early,Adverb,,ˈɜrli,051,これは来週リリースなので、早めにやった方がいいと思います。,早めに,これは来週(らいしゅう)リリースなので、早(はや)めにやった方(ほう)がいいと思います。,I think we should work on this earlier because we will release it next week.,I think we should work on this e{{arli}}er because we will release it next week.,
+一旦,一旦(いったん),temporarily,Adverb,for a moment,ˌtɛmpəˈrɛrəli,052,一旦、このやり方で進めましょう。,一旦,一旦(いったん)、このやり方で進(すす)めましょう,"Let's move forward in this way, temporarily. ","Let's move forward in this way, t{{emporarily}}. ",
+環境,環境(かんきょう),environment,Noun,,ɪnˈvaɪrənmənt,053,すべてテスト環境に反映しました。,環境,すべてテスト環境(かんきょう)に反映(はんえい)しました。,Everything has been reflected in the test environment.,Everything has been reflected in the test e{{nvironment}}.,
+業務,業務(ぎょうむ),business,Noun,task,ˈbɪznəs,054,ネット環境が悪くて、業務に支障が出ています。,業務,ネット環境(かんきょう)が悪くて、業務(ぎょうむ)に支障(ししょう)が出(で)ています。,"The internet environment (ex: wifi) here is bad, which is hindering our business.","The internet environment (ex: wifi) here is bad, which is hindering our b{{usiness}}.",
+機能,機能(きのう),feature,Noun,function,ˈfiʧər,055,どんな機能があったら、もっとお客様のためになると思う?,機能,どんな機能(きのう)があったら、もっとお客様(きゃくさま)のためになると思う?,What features do you think would be more beneficial for our customers?,What f{{eatures}} do you think would be more beneficial for our customers?,
+運用,運用(うんよう),operation,Noun,,ˌɑpəˈreɪʃən,056,これは、ちゃんと運用ができていません。,運用,これは、ちゃんと運用(うんよう)ができていません。,"That operation is not working properly. ","That o{{peration}} is not working properly. ",
+観点,観点(かんてん),point of view,Noun,,pɔɪnt ʌv vju,057,QAの観点からすると、このタスクの優先順位は低いです。,観点,QAの観点(かんてん)からすると、このタスクの優先(ゆうせん)順位(じゅんい)は低(ひく)いです。,"From QA's point of view, the priority of this task is low.","From QA's p{{oint}} {{of}} {{view}}, the priority of this task is low.",
+重要,重要(じゅうよう),important,Adjective,,ɪmˈpɔrtənt,058,どれが一番重要な問題ですか。,重要,どれが一番(いちばん)重要(じゅうよう)な問題(もんだい)ですか。,Which one is the most important issue?,Which one is the most i{{mportant}} issue?,
+画面共有する,画面共有(がめんきょうゆう)する,share one's screen,Verb,,ʃɛr wʌnz skrin,059,画面共有してもらえる？,画面共有し,画面(がめん)共有(きょうゆう)してもらえる？,Can you share your screen?,Can you s{{hare}} your s{{creen}}?,
+デプロイ,デプロイ,deployment,Noun,,dɪˈplɔɪmənt,060,昨日、デプロイ、完了しました。,デプロイ,昨日(きのう)、デプロイ、完了(かんりょう)しました。,I completed the deployment yesterday.,I completed the d{{eployment}} yesterday.,
+動作を確認する,動作(どうさ)を確認(かくにん)する,test operation,Verb,check operation,tɛst ˌɑpəˈreɪʃən,061,動作確認はいつしますか。,動作確認,動作(どうさ)確認(かくにん)はいつしますか。,When are you going to test the operation?,When are you going to t{{est}} the o{{peration}}?,
+実装する,実装(じっそう)する,implement,Verb,,ˈɪmpləmənt,062,これは来週実装します,実装し,これは来週(らいしゅう)実装(じっそう)します。,We're going to implement this next week.,We're going to i{{mplement}} this next week.,
+安定している,安定(あんてい)している,stable,Adjective,,ˈsteɪbəl,063,(それは、)バ グを直したので、今は安定しています。,安定してい,(それは、)バクを直(なお)したので、今は安定(あんてい)しています,It's stable now since I've resolved the bugs.,It's s{{table}} now since I've resolved the bugs.,
+発生する,発生(はっせい)する,occur,Verb,,əˈkɜr,064,オンコールのときに、問題が発生しました。,発生し,オンコールのときに、問題(もんだい)が発生(はっせい)しました。,An issue occurred when I was on call.,An issue o{{ccurred}} when I was on call.,
+対応する,対応(たいおう)する,deal with,Verb,handle,dil wɪð,065,これは、他のチームが対応してくれるので、うちのチームはしなくていいです。,対応し,これは、他(ほか)のチームが対応(たいおう)してくれるので、うちのチームはしなくていいです。,"For this issue, our team doesn't need to deal with it since another team will.","For this issue, our team doesn't need to d{{eal}} {{with}} it since another team will.",
+削除する,削除(さくじょ)する,delete,Verb,,dɪˈlit,066,Jiraに同じ内容のチケットが２つあるので、こっちは削除しますね。,削除し,Jiraに同(おな)じ内容(ないよう)のチケットが２つあるので、こっちは削除(さくじょ)しますね。,I'll delete this because there are two tickets with the same content on Jira.,I'll d{{elete}} this because there are two tickets with the same content on Jira.,
+保存する,保存(ほぞん)する,save,Verb,,seɪv,067,すみません、修正したあと、保存し忘れました。,保存し,すみません、修正(しゅうせい)したあと、保存(ほぞん)し忘(わす)れました。,"Sorry, I forgot to save it after I fixed it.","Sorry, I forgot to s{{ave}} it after I fixed it.",
+検討する,検討(けんとう)する,think about,Verb,consider,θɪŋk əˈbaʊt,068,ロールバックのやり方は今検討中です。,検討,ロールバックのやり方(かた)は今(いま)、検討中(けんとうちゅう)です。,We're now thinking about how to roll it back.,We're now t{{hinking}} {{about}} how to roll it back.,
+関係する,関係(かんけい)する,related to,Adjective,,rɪˈleɪtɪd tu,069,このチケットに関係してる人って、誰だっけ？,関係し,このチケットに関係(かんけい)してる人(ひと)って、誰(だれ)だっけ？,Who's the person related to this ticket?,Who's the person r{{elated}} {{to}} this ticket?,
+継続する,継続(けいぞく)する,continue,Verb,,kənˈtɪnju,070,週次共有ミーティングは、今後も継続していきましょう。,継続し,週次共有ミーティングは、今後(こんご)も継続(けいぞく)していきましょう。,Let's continue the weekly sync meetings as we've been doing.,Let's c{{ontinue}} the weekly sync meetings as we've been doing.,
+測る,測(はか)る,measure,Verb,,ˈmɛʒər,071,この目標を達成したかどうかをどうやって測りますか。,測り,この目標(もくひょう)を達成(たっせい)したかどうかをどうやって測(はか)りますか。,How do you measure if you've achieved your goal or not?,How do you m{{easure}} if you've achieved your goal or not?,
+検索する,検索(けんさく)する,search,Verb,,sɜrʧ,072,この画面は検索しにくいですね。,検索し,この画面(がめん)は検索(けんさく)しにくいですね。,This screen layout makes it difficult to use the search function.,This screen layout makes it difficult to use the s{{earch}} function.,

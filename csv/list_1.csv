@@ -1,28 +1,26 @@
-日本語,日本語 ※ふりがなつき,English,例文(れいぶん) example sentence,例文(れいぶん) example sentence　※ふりがなつき,English
-チケットを取る,チケットを取(と)る,take a ticket,すでに3つチケットを取っているので、今週は取れません。,すでに3(みっ)つチケットを取(と)っているので、今週(こんしゅう)は取(と)れません。,I can't take a ticket this week because I have already taken 3.
-すでに,すでに,adv. already,ー,ー,ー
-プルリクを出す,プルリクを出(だ)す,make/create a pull request ,昨日、プルリクを出しました。,昨日(きのう)、プルリクを出(だ)しました。,I made a pull request yesterday. 
-開発する,開発(かいはつ)する,v. develop,今、Xを開発しています。,今(いま)、Xを開発(かいはつ)しています。,I'm developing X now.
-修正する,修正(しゅうせい)する,"v. correct, revise",修正は今日中に終わると思います。,修正(しゅうせい)は今日中(きょうじゅう)に終(お)わると思(おも)います。,I think I'll revise it by the end of today.
-マージする,マージする,v. merge,XをYにマージしました。,XをYにマージしました。,I merged X with Y.
-進める,進(すす)める,"v. [*transitive verb 他動詞]
-1. move forward, proceed with (something)
-2. work on ",このチケットは、Kenさんと一緒に進めています。,このチケットは、Kenさんと一緒(いっしょ)に進(すす)めています。,I'm working on this ticket with Ken.
-[システムが]動く,[システムが]動(うご)く,"v. work, operate ",システムがちゃんと動いてないことがわかった。,システムがちゃんと動(うご)いてないことがわかった。,I realized that the system was not working properly. 
-ちゃんと,ちゃんと ※casual,adv. properly,ー,ー,ー
-間に合う,間(ま)に合(あ)う,"be in time, make a deadline",来週のリリースには間に合いそうです。,来週(らいしゅう)のリリースには間(ま)に合(あ)いそうです。,It seems that we'll make the release next week.
-状態,状態(じょうたい),n. status,QAしてもらえる状態のものがありますか。,QAしてもらえる状態(じょうたい)のものがありますか。,Is there anything ready for QA?
-課題,課題(かだい),n. issue,課題が見つかった。,課題(かだい)が見(み)つかった。,We found some issues.
-要件,要件(ようけん),n. requirements,要件は明日、テックリード(TL)に共有します。,要件(ようけん)は明日(あした)、TLに共有(きょうゆう)します。,I'll share requirements with TLs tomorrow.
-仕様,仕様(しよう),n. specification document,まだ仕様が決まってない。,まだ仕様(しよう)が決(き)まってない。,The specs haven't been decided yet.
-固まる (*自動詞),固(かた)まる (*intransitive verb),v. take shape (*intransitive verb),まだ仕様が固まっていません。,まだ仕様(しよう)が固(かた)まっていません。,The specs haven't taken shape yet.
-支障,支障(ししょう),"n. obstacle, hitch ",それによって(プロジェクトに)支障が出ています。,それによって(プロジェクトに)支障(ししょう)が出(で)ています。,It interferes with it (our project).
-影響,影響(えいきょう),n. effect,これは、お客様に影響があるインシデントじゃないです。,これは、お客様(きゃくさま)に影響(えいきょう)があるインシデントじゃないです。,This is not an incident that has an effect on customers.
-原因,原因(げんいん),n. cause,これから原因を調べます。,これから原因(げんいん)を調(しら)べます。,I will look into the causes now.
-相談する,相談(そうだん)する,v. consult,マネージャーに相談する。,マネージャーに相談(そうだん)する。,I'll consult with my manager.
-困る,困(こま)る,v. be in trouble,何か困ってることがありますか。,何(なに)か困(こま)ってることがありますか。,Do you have any difficulties?
-[人/チームと]連携する,[人(ひと)/チームと]連携(れんけい)する,"v. work together, align with",これはteam Bと連携してやっていきます。,これはteam Bと連携(れんけい)してやっていきます。,We are aligned with team B to do this (task).
-sync(シンク)する,sync(シンク)する,v. sync,あとでテックリード(TL)とsyncしておきます。,あとでTLとsyncしておきます。,I will sync with TL later.
-設定する,設定(せってい)する,v. set,目標を設定する。,目標(もくひょう)を設定(せってい)する。,I'll set goals / I am setting goals.
-反映する,反映(はんえい)する,v. reflect,先週修正したけど、Jiraに反映されてません。,先週(せんしゅう)修正(しゅうせい)したけど、Jiraに反映(はんえい)されてません。,"I edited it last week, but it isn't reflected on Jira (yet)."
-効率,効率(こうりつ),n. efficiency,そのやり方は、効率がよさそう。,そのやり方(かた)は、効率(こうりつ)がよさそう。,That method seems efficient.
+JAPANESE WORD,JAPANESE WORD WITH KANA,ENGLISH WORD,PART OF WORD,SYNONYM,PHONETICS,SENTENCE ID,JAPANESE SENTENCE,JAPANESE HIGHLIGHT,JAPANESE SENTENCE WITH KANA,ENGLISH SENTENCE,ENGLISH SENTENCE WITH CLOZE,ENGLISH AUDIO FILE
+チケットを取る,チケットを取(と)る,take a ticket,Verb,,teɪk ə ˈtɪkət,000,すでに3つチケットを取っているので、今週は取れません。,チケットを取っ,すでに3(みっ)つチケットを取(と)っているので、今週(こんしゅう)は取(と)れません。,I can't take a ticket this week because I have already taken 3.,I can't t{{ake}} a t{{icket}} this week because I have already taken 3.,000.mp3
+すでに,すでに,already,Adjective,,ɔlˈrɛdi,000,すでに3つチケットを取っているので、今週は取れません。,すでに,すでに3(みっ)つチケットを取(と)っているので、今週(こんしゅう)は取(と)れません。,I can't take a ticket this week because I have already taken 3.,I can't take a ticket this week because I have a{{lready}} taken 3.,000.mp3
+プルリクを出す,プルリクを出(だ)す,"make a pull request ",Verb,create a pull request,"meɪk ə pʊl rɪˈkwɛst ",001,昨日、プルリクを出しました。,プルリクを出し,昨日(きのう)、プルリクを出(だ)しました。,"I made a pull request yesterday. ","I m{{ade}} a p{{ull}} {{request}} yesterday. ",001.mp3
+開発する,開発(かいはつ)する,develop,Verb,,dɪˈvɛləp,002,今、SNSを開発しています。,開発し,今(いま)、SNSを開発(かいはつ)しています。,I'm developing social media now.,I'm d{{eveloping}} social media now.,002.mp3
+修正する,修正(しゅうせい)する,revise,Verb,correct,rɪˈvaɪz,003,修正は今日中に終わると思います。,修正,修正(しゅうせい)は今日中(きょうじゅう)に終(お)わると思(おも)います。,I think I'll revise it by the end of today.,I think I'll r{{evise}} it by the end of today.,003.mp3
+マージする,マージする,merge,Verb,,mɜrʤ,004,featureブランチをmainブランチにマージしました。,マージし,featureブランチをmainブランチにマージしました。,I merged the feature branch with the main branch.,I m{{erged}} the feature branch with the main branch.,004.mp3
+進める,進(すす)める,"work on ",Verb,"move forward, proceed with (something)","wɜrk ɑn ",005,このチケットは、Kenさんと一緒に進めています。,進め,このチケットは、Kenさんと一緒(いっしょ)に進(すす)めています。,I'm working on this ticket with Ken.,I'm w{{orking}} {{on}} this ticket with Ken.,005.mp3
+[システムが]動く,[システムが]動(うご)く,work,Verb,"operate ",wɜrk,006,システムがちゃんと動いてないことがわかった。,動い,システムがちゃんと動(うご)いてないことがわかった。,"I realized that the system was not working properly. ","I realized that the system was not w{{orking}} properly. ",006.mp3
+ちゃんと,ちゃんと ※casual,properly,Adjective,,ˈprɑpərli,006,システムがちゃんと動いてないことがわかった。,ちゃんと,システムがちゃんと動(うご)いてないことがわかった。,"I realized that the system was not working properly. ","I realized that the system was not working p{{roperly}}. ",006.mp3
+締切に間に合う,締切(しめきり)に間(ま)に合(あ)う,make a deadline,Verb,be in time,meɪk ə ˈdɛˌdlaɪn,007,来週の締切には間に合いそうです。,締切には間に合い,来週(らいしゅう)の締切(しめきり)には間(ま)に合(あ)いそうです。,It seems that we'll make the deadline next week.,It seems that we'll m{{ake}} the d{{eadline}} next week.,007.mp3
+状態,状態(じょうたい),status,Noun,,ˈstætəs,008,QAしてもらえる状態のものがありますか。,状態,QAしてもらえる状態(じょうたい)のものがありますか。,Is there anyone whose status is ready for QA? / Is there anything with a status that is ready for QA?,Is there anyone whose s{{tatus}} is ready for QA? / Is there anything with a s{{tatus}} that is ready for QA?,008.mp3
+課題,課題(かだい),issue,Noun,,ˈɪʃu,009,課題が見つかった。,課題,課題(かだい)が見(み)つかった。,We found some issues.,We found some i{{ssues}}.,009.mp3
+要件,要件(ようけん),requirements,Noun,,rɪˈkwaɪrmənts,010,要件は明日、テックリード(TL)に共有します。,要件,要件(ようけん)は明日(あした)、TLに共有(きょうゆう)します。,I'll share requirements with TLs tomorrow.,I'll share r{{equirements}} with TLs tomorrow.,010.mp3
+仕様,仕様(しよう),spec,Noun,specification,spɛk,011,まだ仕様が決まってない。,仕様,まだ仕様(しよう)が決(き)まってない。,The specs haven't been decided yet.,The s{{pecs}} haven't been decided yet.,011.mp3
+固まる,固(かた)まる,take shape,Verb,,teɪk ʃeɪp,012,まだ仕様が固まっていません。,固まっ,まだ仕様(しよう)が固(かた)まっていません。,The specs haven't taken shape yet.,The specs haven't t{{aken}} {{shape}} yet.,012.mp3
+支障をきたす,支障(ししょう)をきたす,"interfere ",Noun,,"ˌɪntərˈfɪr ",013,それによってプロジェクトに支障が出ています。,支障が出,それによってプロジェクトに支障(ししょう)が出(で)ています。,It interferes with our project.,It i{{nterferes}} with our project.,013.mp3
+影響,影響(えいきょう),effect,Noun,,ɪˈfɛkt,014,これは、お客様に影響があるインシデントじゃないです。,影響,これは、お客様(きゃくさま)に影響(えいきょう)があるインシデントじゃないです。,This is not an incident that has an effect on customers.,This is not an incident that has an e{{ffect}} on customers.,014.mp3
+原因,原因(げんいん),cause,Noun,,kɑz,015,これから原因を調べます。,原因,これから原因(げんいん)を調(しら)べます。,I will look into the causes now.,I will look into the c{{auses}} now.,015.mp3
+相談する,相談(そうだん)する,consult,Verb,,kənˈsʌlt,016,マネージャーに相談する。,相談する,マネージャーに相談(そうだん)する。,I'll consult with my manager.,I'll c{{onsult}} with my manager.,016.mp3
+困る,困(こま)る,have difficulties,Verb,,hæv ˈdɪfəkəltiz,017,何か困ってることがありますか。,困っ,何(なに)か困(こま)ってることがありますか。,Do you have any difficulties?,Do you h{{ave}} any d{{ifficulties}}?,017.mp3
+[人/チームと]連携する,[人(ひと)/チームと]連携(れんけい)する,be with [sb] on doing [sth],Verb,,bi wɪð ɑn ˈduɪŋ,018,このタスクはteam Bと連携してやっていきます。,連携してやっ,このタスクはteam Bと連携(れんけい)してやっていきます。,We are with Team B on doing this task.,We are w{{ith}} Team B o{{n}} {{doing}} this task.,018.mp3
+認識を合わせる,認識(にんしき)を合(あ)わせる,sync,Verb,,sɪŋk,019,あとでテックリード(TL)と認識を合わせておきます。,認識を合わせ,あとでテックリード(TL)と認識(にんしき)を合(あ)わせておきます。,I will sync with TL later.,I will s{{ync}} with TL later.,019.mp3
+設定する,設定(せってい)する,set,Verb,,sɛt,020,目標を設定する。,設定する,目標(もくひょう)を設定(せってい)する。,I'll set goals / I am setting goals.,I'll s{{et}} goals / I am s{{etting}} goals.,020.mp3
+反映する,反映(はんえい)する,reflect,Verb,,rəˈflɛkt,021,先週修正したけど、Jiraに反映されてません。,反映さ,先週(せんしゅう)修正(しゅうせい)したけど、Jiraに反映(はんえい)されてません。,"I edited it last week, but it isn't reflected on Jira yet.","I edited it last week, but it isn't r{{eflected}} on Jira yet.",021.mp3
+効率がよい,効率(こうりつ)がよい,efficient,Noun,,ɪˈfɪʃənt,022,そのやり方は、効率がよさそう。,効率がよさ,そのやり方(かた)は、効率(こうりつ)がよさそう。,That method seems efficient.,That method seems e{{fficient}}.,022.mp3
