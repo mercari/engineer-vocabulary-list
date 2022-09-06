@@ -11,7 +11,7 @@ from typing import List, Union
 AUDIO_DIR = 'media/audio'
 IMAGE_DIR = 'media/image'
 DECK_ID = 'engineer-vocabulary-list'
-DECK_VERSION = 1
+DECK_VERSION = 2
 
 parser = argparse.ArgumentParser(description='word list to flashcards.')
 parser.add_argument('wordlist', help='word list csv file')
