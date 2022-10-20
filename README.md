@@ -1,8 +1,16 @@
 # Engineer Vocabulary List in Japanese/English エンジニア向け日英ボキャブラリーリスト
 
-[Click here for the original README file.](README-original.md)
+[Click here for the original README file.](docs/README-original.md)
 
 ## Anki flashcards
+
+<center>
+
+|Front|Back|
+|---|---|
+|<img src="docs/images/sample-flashcard-front.png" width=240>|<img src="docs/images/sample-flashcard-back.png" width=240>|
+
+</center>
 
 The provided [Anki flashcard decks](https://apps.ankiweb.net/) use spaced repetition to help you retain English vocabulary for software developers.
 
