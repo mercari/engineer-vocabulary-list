@@ -1,7 +1,6 @@
 from abc import ABCMeta, abstractclassmethod
 import argparse
 import csv
-from enum import Enum
 import os
 import pandas as pd
 import shutil
@@ -11,50 +10,43 @@ from typing import List, Union
 AUDIO_DIR = 'media/audio'
 IMAGE_DIR = 'media/image'
 DECK_ID = 'engineer-vocabulary-list'
-DECK_VERSION = 3
 
 parser = argparse.ArgumentParser(description='word list to flashcards.')
-parser.add_argument('wordlist', help='word list csv file')
+parser.add_argument('import_file_path', help='import csv file\'s relative path')
+parser.add_argument('export_file_version', help='version of export csv file')
 args = parser.parse_args()
 
 
 def main() -> None:
     flashcards: List[Flashcard] = []
-    df = pd.read_csv(args.wordlist)
+    df = pd.read_csv(args.import_file_path)
 
     for index, row in df.iterrows():
         flashcard = Flashcard(
-            front=[
+            fields = [
                 ClozeText(source=row['ENGLISH SENTENCE WITH CLOZE'],
                           start_symbol='{{', end_symbol='}}'),
                 HighlightText(source=row['JAPANESE SENTENCE'],
                               keyword=row['JAPANESE HIGHLIGHT'],
-                              color=colors[Color.BLUE]),
-            ],
-            back=[
+                              color=Color.BLUE),
                 row['ENGLISH WORD'],
                 row['PHONETICS'],
-                row['PART OF WORD'],
                 row['JAPANESE WORD'],
+                row['PART OF SPEECH'],
+                Audio(filename=row['ENGLISH AUDIO FILE']),
                 row['SYNONYM'],
-                Audio(filename=row['ENGLISH AUDIO FILE'])
-            ])
+            ]
+        )
         flashcards.append(flashcard)
 
     Anki(deck_id=DECK_ID,
-         deck_version=DECK_VERSION,
+         deck_version=args.export_file_version,
          flashcards=flashcards).process_flashcards()
 
 
-class Color(Enum):
-    RED = 1
-    BLUE = 2
-
-
-colors = {
-    Color.RED: '#ff0000',
-    Color.BLUE: '#0000ff'
-}
+class Color:
+    RED = '#ff0000'
+    BLUE = '#0000ff'
 
 
 class ClozeText():
@@ -90,15 +82,12 @@ class Audio(Media):
         self.absolute_path = os.path.join(AUDIO_DIR, filename)
 
 
-Item: type = Union[str, ClozeText, HighlightText, Media]
+Field: type = Union[str, ClozeText, HighlightText, Media]
 
 
 class Flashcard:
-    def __init__(self,
-                 front: List[Item],
-                 back: List[Item]):
-        self.front = front
-        self.back = back
+    def __init__(self, fields: List[Field]) -> None:
+        self.fields = fields
 
 
 class FlashcardsExporter(metaclass=ABCMeta):
@@ -131,48 +120,31 @@ class Anki(FlashcardsExporter):
         with open(os.path.join(self.export_dir, self.csv_filename), 'w') as f:
             writer = csv.writer(f, delimiter=self.filed_separator)
             for flashcard in self.flashcards:
-                front_string = ''
-                for i, item in enumerate(flashcard.front):
-                    item_string = self.process_item(item)
-                    if item_string is None:
-                        continue
-                    if i != 0:
-                        front_string += self.line_break
-                    front_string += item_string
+                writer.writerow(list(map(lambda f: self.process_field(f), flashcard.fields)))
 
-                back_string = ''
-                for i, item in enumerate(flashcard.back):
-                    item_string = self.process_item(item)
-                    if item_string is None:
-                        continue
-                    back_string += self.line_break
-                    back_string += item_string
-
-                writer.writerow([front_string, back_string])
-
-    def process_item(self, item: Item) -> str:
-        if type(item) == str:
-            item_string = item
-        elif type(item) == ClozeText:
-            item_string = self.formatClozeText(item)
-        elif type(item) == HighlightText:
-            item_string = self.formatHighlightText(item)
-        elif issubclass(type(item), Media):
-            copied_filename = self.deck_id + '_' + item.filename
-            if type(item) == Image:
-                src_path = os.path.join(IMAGE_DIR, item.filename)
-            elif type(item) == Audio:
-                src_path = os.path.join(AUDIO_DIR, item.filename)
+    def process_field(self, field: Field) -> str:
+        if type(field) == str:
+            field_string = field
+        elif type(field) == ClozeText:
+            field_string = self.formatClozeText(field)
+        elif type(field) == HighlightText:
+            field_string = self.formatHighlightText(field)
+        elif issubclass(type(field), Media):
+            copied_filename = self.deck_id + '_' + field.filename
+            if type(field) == Image:
+                src_path = os.path.join(IMAGE_DIR, field.filename)
+            elif type(field) == Audio:
+                src_path = os.path.join(AUDIO_DIR, field.filename)
             else:
                 return None
             shutil.copy(src_path, self.media_dir)
-            dst_path = os.path.join(self.media_dir, item.filename)
+            dst_path = os.path.join(self.media_dir, field.filename)
             renamed_dst_path = os.path.join(self.media_dir, copied_filename)
             os.rename(dst_path, renamed_dst_path)
-            item_string = self.formatMediaString(type(item), copied_filename)
+            field_string = self.formatMediaString(type(field), copied_filename)
         else:
             return None
-        return item_string
+        return field_string
 
     def formatClozeText(self, cloze_text: ClozeText) -> str:
         formatted_text = cloze_text.source \

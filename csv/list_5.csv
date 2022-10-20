@@ -1,4 +1,4 @@
-JAPANESE WORD,JAPANESE WORD WITH KANA,ENGLISH WORD,PART OF WORD,SYNONYM,PHONETICS,SENTENCE ID,JAPANESE SENTENCE,JAPANESE HIGHLIGHT,JAPANESE SENTENCE WITH KANA,ENGLISH SENTENCE,ENGLISH SENTENCE WITH CLOZE,ENGLISH AUDIO FILE
+JAPANESE WORD,JAPANESE WORD WITH KANA,ENGLISH WORD,PART OF SPEECH,SYNONYM,PHONETICS,SENTENCE ID,JAPANESE SENTENCE,JAPANESE HIGHLIGHT,JAPANESE SENTENCE WITH KANA,ENGLISH SENTENCE,ENGLISH SENTENCE WITH CLOZE,ENGLISH AUDIO FILE
 雑談,雑談(ざつだん),chat,Noun,small talk,ʧæt,098,まだ10分ぐらいあるので、ちょっと雑談でもしましょうか。,雑談,まだ10分ぐらいあるので、ちょっと雑談(ざつだん)でもしましょうか。,"We still have about 10 minutes left, shall we just chat? ","We still have about 10 minutes left, shall we just c{{hat}}? ",
 段階,段階(だんかい),phase,Noun,,feɪz,099,今は、テストの準備をしている段階です。,段階,今は、テストの準備(じゅんび)をしている段階(だんかい)です。,I'm in the preparation phase of the test now.,I'm in the preparation p{{hase}} of the test now.,
 既存の,"既存(きぞん, きそん)の",existing,Adjective,,ɪgˈzɪstɪŋ,100,既存のソースを見て、考えてみます。,既存の,既存(きぞん)のソースを見(み)て、考(かんが)えてみます。,I'll check the existing sources and then think about it.,I'll check the e{{xisting}} sources and then think about it.,

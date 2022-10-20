@@ -1,4 +1,4 @@
-JAPANESE WORD,JAPANESE WORD WITH KANA,ENGLISH WORD,PART OF WORD,SYNONYM,PHONETICS,SENTENCE ID,JAPANESE SENTENCE,JAPANESE HIGHLIGHT,JAPANESE SENTENCE WITH KANA,ENGLISH SENTENCE,ENGLISH SENTENCE WITH CLOZE,ENGLISH AUDIO FILE
+JAPANESE WORD,JAPANESE WORD WITH KANA,ENGLISH WORD,PART OF SPEECH,SYNONYM,PHONETICS,SENTENCE ID,JAPANESE SENTENCE,JAPANESE HIGHLIGHT,JAPANESE SENTENCE WITH KANA,ENGLISH SENTENCE,ENGLISH SENTENCE WITH CLOZE,ENGLISH AUDIO FILE
 詳細,詳細(しょうさい),details,Noun,,dɪˈteɪlz,23,詳細はdocsを見てください。,詳細,詳細(しょうさい)はdocsを見(み)てください。,Please check the docs for details.,Please check the docs for d{{etails}}.,023.mp3
 詳しく,詳(くわ)しく,in detail,Adverb,,ɪn dɪˈteɪl,24,どんなインシデントだったか詳しく教えてもらえますか。,詳しく,どんなインシデントだったか詳(くわ)しく教(おし)えてもらえますか。,Could you tell me about the incident in detail?,Could you tell me about the incident i{{n}} {{detail}}?,024.mp3
 方針,方針(ほうしん),policy,Noun,,ˈpɑləsi,25,まだ会社の方針が決まってない。,方針,まだ会社(かいしゃ)の方針(ほうしん)が決(き)まってない。,The company policy has not been decided yet.,The company p{{olicy}} has not been decided yet.,025.mp3
@@ -9,7 +9,7 @@ JAPANESE WORD,JAPANESE WORD WITH KANA,ENGLISH WORD,PART OF WORD,SYNONYM,PHONETIC
 議論する,議論(ぎろん)する,discuss,Verb,,dɪˈskʌs,30,それはEMが議論しているところです。,議論し,それはEMが議論(ぎろん)しているところです。,EMs are discussing it now.,EMs are d{{iscussing}} it now.,030.mp3
 不具合,不具合(ふぐあい),defect,Noun,bug,ˈdifɛkt,31,ちょっと不具合があるので、今日中に直します。,不具合,ちょっと不具合(ふぐあい)があるので、今日中(きょうじゅう)に直(なお)します。,"There are some defects, so I'll fix it by the end of the day.","There are some d{{efects}}, so I'll fix it by the end of the day.",031.mp3
 順調に進む,順調(じゅんちょう)に進(すす)む,work well,Verb,,wɜrk wɛl,32,これは、順調に進んでいます。,順調に進ん,これは、順調(じゅんちょう)に進(すす)んでいます。,This is working well.,This is w{{orking}} w{{ell}}.,032.mp3
-量が多い,量(りょう)が多い,many,Adjective,,ˈmɛni,33,タスクの量が多すぎます。,量,タスクの量(りょう)が多(おお)すぎます。,There are too many tasks.,There are too m{{any}} tasks.,033.mp3
+量が多い,量(りょう)が多い,many,Adjective,,ˈmɛni,33,タスクの量が多すぎます。,量が多,タスクの量(りょう)が多(おお)すぎます。,There are too many tasks.,There are too m{{any}} tasks.,033.mp3
 具体的に,具体的(ぐたいてき)に,concretely,Adverb,,ˈkɑnˌkritli,34,具体的にどんなインシデントでしたか。,具体的に,具体的(ぐたいてき)にどんなインシデントでしたか。,Could you explain the incident more concretely?,Could you explain the incident more c{{oncretely}}?,034.mp3
 状況,状況(じょうきょう),situation,Noun,,ˌsɪʧuˈeɪʃən,35,QAのリソースが厳しい状況です。,状況,QAのリソースが厳(きび)しい状況(じょうきょう)です。,We're in a tough situation in terms of QA resources.,We're in a tough s{{ituation}} in terms of QA resources.,035.mp3
 現状,現状(げんじょう),present situation,Noun,,ˈprɛzənt ˌsɪʧuˈeɪʃən,36,現状を説明します。,現状,現状(げんじょう)を説明(せつめい)します。,I'll explain the present situation.,I'll explain the p{{resent}} s{{ituation}}.,036.mp3
