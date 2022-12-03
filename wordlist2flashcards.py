@@ -23,7 +23,7 @@ def main() -> None:
 
     for index, row in df.iterrows():
         flashcard = Flashcard(
-            fields = [
+            fields=[
                 ClozeText(source=row['ENGLISH SENTENCE WITH CLOZE'],
                           start_symbol='{{', end_symbol='}}'),
                 HighlightText(source=row['JAPANESE SENTENCE'],
